@@ -1,0 +1,3569 @@
+plantMASST	NCBI_Genome	Transcriptome
+Bergenia crassifolia	Paraleonurus japonicus	Bergenia crassifolia
+Croton aff. incanus BWvE-2008	Zostera marina	Dracocephalum officinale
+Paraleonurus japonicus	Ziziphus jujuba	Paraleonurus japonicus
+Mentha x piperita	Zizania palustris	Mentha x piperita
+Pistacia terebinthus	Zingiber zerumbet	Zostera marina
+Rosa x centifolia	Zingiber officinale	Ziziphus mauritiana
+Zostera marina	Zea mays	Ziziphus jujuba
+Zornia bracteata	Zanthoxylum bungeanum	Zizania palustris
+Ziziphus rugosa	Xerosicyos pubescens	Zinnia haageana
+Ziziphus oenopolia	Xerosicyos perrieri	Zinnia elegans
+Ziziphus mauritiana	Xanthoceras sorbifolium	Zingiber zerumbet
+Ziziphus jujuba	Wurfbainia villosa	Zingiber officinale
+Ziziphus incurva	Wollemia nobilis	Zea mays
+Ziziphus horsfieldii	Withania somnifera	Zanthoxylum schinifolium
+Ziziphus cambodianus	Welwitschia mirabilis	Zanthoxylum bungeanum
+Ziziphus attopensis	Vitis vinifera	Zanthoxylum austrosinense
+Ziziphus apetala	Vitis rotundifolia	Zamioculcas zamiifolia
+Zizania palustris	Vitis riparia	Zamia pumila
+Zinnia haageana	Vitis labrusca	Yucca filamentosa
+Zinnia elegans	Viscum album	Ximenia americana
+Zingiber zerumbet	Viola tricolor	Xerosicyos pubescens
+Zingiber ottensii	Vinca minor	Xerosicyos perrieri
+Zingiber officinale	Vigna unguiculata	Xerosicyos danguyi
+Zingiber montanum	Vigna umbellata	Xerophyta schlechteri
+Zelkova sinica	Vigna radiata	Xeronema callistemon
+Zea mays	Vigna mungo	Xanthoceras sorbifolium
+Zanthoxylum schinifolium	Vigna angularis	Xanthium strumarium
+Zanthoxylum rhoifolium	Vicia villosa	Wurfbainia villosa
+Zanthoxylum rhetsum	Vicia faba	Wollemia nobilis
+Zanthoxylum piperitum	Viburnum tinus	Withania somnifera
+Zanthoxylum fagara	Veronica spicata	Wisteria sinensis
+Zanthoxylum bungeanum	Verbena officinalis	Wikstroemia indica
+Zanthoxylum austrosinense	Verbascum thapsus	Welwitschia mirabilis
+Zanthoxylum americanum	Verbascum nigrum	Weigela florida
+Zanthoxylum acanthopodium	Vanilla planifolia	Vitis vinifera
+Zanha golungensis	Vaccinium macrocarpon	Vitis rotundifolia
+Zamioculcas zamiifolia	Vaccinium darrowii	Vitis riparia
+Zamia pumila	Vaccinium corymbosum	Vitis labrusca
+Yucca filamentosa	Vaccinium bracteatum	Vitex agnus-castus
+Xylopia macrantha	Urtica dioica	Viscum coloratum
+Xylopia frutescens	Ulmus parvifolia	Viscum album
+Xylopia benthamii	Ulmus americana	Viola tricolor
+Xylia xylocarpa	Typha latifolia	Viola mandshurica
+Ximenia americana	Tussilago farfara	Vinca minor
+Xerosicyos pubescens	Turnera subulata	Vigna vexillata
+Xerosicyos perrieri	Triticum urartu	Vigna unguiculata
+Xerosicyos danguyi	Triticum turgidum	Vigna umbellata
+Xerophyta schlechteri	Triticum monococcum	Vigna radiata
+Xerophyta dasylirioides	Triticum dicoccoides	Vigna mungo
+Xeronema callistemon	Triticum aestivum	Vigna angularis
+Xanthosoma sagittifolium	Tripterygium wilfordii	Vicia villosa
+Xanthoceras sorbifolium	Tripidium arundinaceum	Vicia faba
+Xanthium strumarium	Trifolium subterraneum	Vicia cracca
+Wurfbainia villosa	Trifolium repens	Viburnum opulus
+Wrightia arborea	Trifolium pratense	Veronica longifolia
+Wollemia nobilis	Trifolium medium	Verbena officinalis
+Withania somnifera	Trifolium fragiferum	Verbena hastata
+Wisteria sinensis	Trifolium dubium	Verbena bonariensis
+Wisteria frutescens	Trichosanthes cucumerina	Verbascum thapsus
+Wisteria brachybotrys	Tragopogon pratensis	Verbascum nigrum
+Wikstroemia trichotoma	Torreya grandis	Veratrum nigrum
+Wikstroemia stenophylla	Torilis japonica	Vatairea guianensis
+Wikstroemia scytophylla	Tinospora crispa	Vanilla planifolia
+Wikstroemia pilosa	Thymus vulgaris	Valeriana officinalis
+Wikstroemia nutans	Thymus quinquecostatus	Valeriana jatamansi
+Wikstroemia micrantha	Thuja plicata	Vaccinium macrocarpon
+Wikstroemia ligustrina	Thlaspi arvense	Vaccinium darrowii
+Wikstroemia lichiangensis	Theobroma grandiflorum	Vaccinium corymbosum
+Wikstroemia indica	Theobroma cacao	Vaccinium bracteatum
+Wikstroemia dolichantha	Thalictrum thalictroides	Urtica dioica
+Wikstroemia delavayi	Thalictrum minus	Urtica cannabina
+Wikstroemia alternifolia	Teucrium scorodonia	Uncarina grandidieri
+Whitfieldia elongata	Taxus chinensis	Uncaria guianensis
+Welwitschia mirabilis	Tarenaya hassleriana	Ulmus parvifolia
+Weinmannia pinnata	Tanacetum vulgare	Ulmus macrocarpa
+Weigela florida	Tanacetum parthenium	Ulmus americana
+Waltheria indica	Tanacetum coccineum	Typha latifolia
+Wahlenbergia marginata	Tamarix chinensis	Tussilago farfara
+Vitis vinifera	Talinum fruticosum	Turnera subulata
+Vitis rotundifolia	Tagetes patula	Tsuga heterophylla
+Vitis riparia	Tagetes erecta	Tropaeolum peregrinum
+Vitis labrusca	Syzygium malaccense	Tropaeolum majus
+Vitex trifolia	Syzygium jambos	Trochodendron aralioides
+Vitex pinnata	Syzygium aromaticum	Triticum urartu
+Vitex peduncularis	Syringodium filiforme	Triticum turgidum
+Vitex agnus-castus	Symphonia globulifera	Triticum spelta
+Viscum diospyrosicola	Swietenia macrophylla	Triticum monococcum
+Viscum coloratum	Succisa pratensis	Triticum dicoccoides
+Viscum album	Styphnolobium japonicum	Triticum aestivum
+Virola sebifera	Stylosanthes scabra	Tripterygium wilfordii
+Viola yunnanfuensis	Stevia rebaudiana	Tripterygium hypoglaucum
+Viola tricolor	Stephania japonica	Tripterospermum cordatum
+Viola mandshurica	Stellera chamaejasme	Tripidium arundinaceum
+Vincetoxicum stauntonii	Spirodela polyrhiza	Trigonella foenum-graecum
+Vincetoxicum paniculatum	Spinacia oleracea	Trifolium subterraneum
+Vincetoxicum hirundinaria	Sorghum bicolor	Trifolium repens
+Vincetoxicum atratum	Sophora flavescens	Trifolium pratense
+Vinca minor	Solanum verrucosum	Trifolium fragiferum
+Vigna vexillata	Solanum tuberosum	Trifolium dubium
+Vigna unguiculata	Solanum pinnatisectum	Tridax procumbens
+Vigna umbellata	Solanum pimpinellifolium	Trichosanthes rosthornii
+Vigna radiata	Solanum peruvianum	Trichosanthes kirilowii
+Vigna mungo	Solanum pennellii	Trichosanthes dunniana
+Vigna angularis	Solanum nigrum	Trichomanes maximum
+Vicia villosa	Solanum lycopersicum	Trichilia tuberculata
+Vicia faba	Solanum habrochaites	Tribulus terrestris
+Vicia cracca	Solanum dulcamara	Tragopogon pratensis
+Vicia amoena	Solanum commersonii	Tragopogon porrifolius
+Viburnum tinus	Solanum chilense	Tradescantia pallida
+Viburnum sambucinum	Solanum bulbocastanum	Trachycarpus fortunei
+Viburnum rufidulum	Solanum arcanum	Torreya grandis
+Viburnum prunifolium	Solanum americanum	Torilis japonica
+Viburnum opulus	Smallanthus sonchifolius	Torenia fournieri
+Viburnum lantana	Sinapis alba	Tithonia rotundifolia
+Viburnum foetidum	Simmondsia chinensis	Tillandsia usneoides
+Viburnum dentatum	Silybum marianum	Tilia americana
+Viburnum cylindricum	Silene vulgaris	Tiarella polyphylla
+Viburnum brachybotryum	Setaria viridis	Thymus vulgaris
+Viburnum acerifolium	Setaria italica	Thymus serpyllum
+Verrucularina glaucophylla	Sesbania bispinosa	Thymus quinquecostatus
+Veronicastrum virginicum	Sesamum radiatum	Thunbergia alata
+Veronica teucrium	Sesamum indicum	Thuja plicata
+Veronica spicata	Sequoiadendron giganteum	Thuja occidentalis
+Veronica orchidea	Senna tora	Thlaspi arvense
+Veronica officinalis	Senna siamea	Theobroma grandiflorum
+Veronica longifolia	Selenicereus undatus	Theobroma cacao
+Veronica incana	Selaginella tamariscina	Thalictrum thalictroides
+Veronica chamaedrys	Selaginella moellendorffii	Thalictrum minus
+Vernonia elaeagnifolia	Selaginella kraussiana	Tetrapanax papyrifer
+Verbena officinalis	Sedum album	Taxus chinensis
+Verbena hastata	Secale cereale	Taxus baccata
+Verbena bonariensis	Scutellaria barbata	Tarenaya hassleriana
+Verbascum thapsus	Scutellaria baicalensis	Taraxacum officinale
+Verbascum nigrum	Scurrula parasitica	Tanacetum vulgare
+Verbascum densiflorum	Schizonepeta tenuifolia	Tanacetum parthenium
+Veratrum nigrum	Saururus chinensis	Tanacetum coccineum
+Ventilago madraspatana	Sarracenia flava	Tanacetum balsamita
+Ventilago leiocarpa	Saposhnikovia divaricata	Tamarix chinensis
+Ventilago denticulata	Saponaria officinalis	Talinum paniculatum
+Vatairea guianensis	Sanguinaria canadensis	Talinum fruticosum
+Vasconcellea quercifolia	Sambucus nigra	Tagetes patula
+Varronia multispicata	Salvia splendens	Tagetes erecta
+Vanilla planifolia	Salvia sclarea	Syzygium samarangense
+Valeriana officinalis	Salvia rosmarinus	Syzygium malaccense
+Valeriana jatamansi	Salvia officinalis	Syzygium jambos
+Valeriana fauriei	Salvia miltiorrhiza	Syzygium cumini
+Valeriana dageletiana	Salvia hispanica	Syzygium buxifolium
+Vachellia harmandiana	Salvia divinorum	Syzygium aromaticum
+Vachellia farnesiana	Salsola tragus	Synsepalum dulcificum
+Vaccinium urceolatum	Salix cinerea	Symphytum officinale
+Vaccinium parvifolium	Sageretia thea	Symphonia globulifera
+Vaccinium macrocarpon	Saccharum officinarum	Swietenia macrophylla
+Vaccinium fragile	Rumex scutatus	Swertia bimaculata
+Vaccinium darrowii	Rudbeckia hirta	Sweetia fruticosa
+Vaccinium corymbosum	Rubus parviflorus	Swartzia simplex
+Vaccinium bracteatum	Rubus idaeus	Styphnolobium japonicum
+Vaccinium angustifolium	Rubus argutus	Stylosanthes scabra
+Urtica dioica	Rubia tinctorum	Stylidium debile
+Urtica cannabina	Rosa rugosa	Stryphnodendron pulcherrimum
+Urera verrucosa	Rosa multiflora	Strychnos nux-vomica
+Urera baccifera	Rosa laevigata	Strophostyles helvola
+Uraria crinita	Rosa chinensis	Strelitzia reginae
+Uncarina grandidieri	Rosa canina	Stranvaesia davidiana
+Uncarina decaryi	Ricinus communis	Stevia rebaudiana
+Uncaria tomentosa	Riccia sorocarpa	Sterculia lanceolata
+Uncaria sinensis	Ribes uva-crispa	Stephania japonica
+Uncaria homomalla	Ribes nigrum	Stenochlaena palustris
+Uncaria guianensis	Rhodiola kirilowii	Stellera chamaejasme
+Uncaria gambir	Rhizophora mangle	Staphylea trifolia
+Ulmus rubra	Rhizophora apiculata	Stachyurus praecox
+Ulmus parvifolia	Reynoutria japonica	Sporobolus anglicus
+Ulmus macrocarpa	Rehmannia glutinosa	Spirodela polyrhiza
+Ulmus americana	Raphanus sativus	Spinacia oleracea
+Typhonodorum lindleyanum	Radula complanata	Sphagneticola trilobata
+Typhonium trilobatum	Quercus suber	Sphagneticola calendulacea
+Typha orientalis	Quercus rubra	Spathodea campanulata
+Typha latifolia	Quercus phellos	Sparganium stoloniferum
+Tussilago farfara	Quercus petraea	Sorghum bicolor
+Turraea sericea	Quercus lobata	Sorbus aucuparia
+Turnera ulmifolia	Quercus ilex	Sophora tonkinensis
+Turnera subulata	Quercus glauca	Sophora flavescens
+Turnera diffusa	Quercus alba	Solidago virgaurea
+Tsuga heterophylla	Pyrus communis	Solena amplexicaulis
+Tropaeolum peregrinum	Pyracantha coccinea	Solanum verrucosum
+Tropaeolum majus	Punica granatum	Solanum umbelliferum
+Trochodendron aralioides	Pueraria montana	Solanum tuberosum
+Triticum urartu	Pterocarpus macrocarpus	Solanum swartzianum
+Triticum turgidum	Psophocarpus tetragonolobus	Solanum stramoniifolium
+Triticum spelta	Psidium guajava	Solanum sessiliflorum
+Triticum monococcum	Pseudoturritis turrita	Solanum quitoense
+Triticum dicoccoides	Pseudotsuga menziesii	Solanum pseudoquina
+Triticum aestivum	Prunus persica	Solanum pinnatisectum
+Trisetum flavescens	Prunus mume	Solanum pimpinellifolium
+Tripterygium wilfordii	Prunus mongolica	Solanum peruvianum
+Tripterygium hypoglaucum	Prunus dulcis	Solanum pennellii
+Tripterospermum cordatum	Prunus avium	Solanum nigrum
+Triplochiton scleroxylon	Prunus armeniaca	Solanum melongena
+Tripidium arundinaceum	Prunella vulgaris	Solanum macrocarpon
+Trigonella foenum-graecum	Primula vulgaris	Solanum lycopersicum
+Trifolium subterraneum	Primula veris	Solanum lasiocarpum
+Trifolium rubens	Portulaca oleracea	Solanum habrochaites
+Trifolium repens	Populus trichocarpa	Solanum dulcamara
+Trifolium pratense	Populus nigra	Solanum commersonii
+Trifolium medium	Populus deltoides	Solanum cladotrichum
+Trifolium fragiferum	Populus alba	Solanum chilense
+Trifolium dubium	Polytrichum strictum	Solanum capsicoides
+Trifolium campestre	Polystichum acrostichoides	Solanum bulbocastanum
+Trifolium alpestre	Polygonum aviculare	Solanum betaceum
+Tridax procumbens	Pogostemon cablin	Solanum asperum
+Trichostigma peruvianum	Poa pratensis	Solanum argenteum
+Trichosanthes rosthornii	Plectranthus barbatus	Solanum arcanum
+Trichosanthes kirilowii	Platycodon grandiflorus	Solanum aphyodendron
+Trichosanthes dunniana	Plantago media	Solanum americanum
+Trichosanthes cucumerina	Plantago lanceolata	Smallanthus sonchifolius
+Trichomanes maximum	Pittosporum tobira	Sisymbrium officinale
+Trichilia tuberculata	Pistacia vera	Sinomenium acutum
+Trichilia prieureana	Pistacia atlantica	Sinapis alba
+Trichilia pleeana	Piper sarmentosum	Simmondsia chinensis
+Trichilia elegans	Piper longum	Simarouba amara
+Trichilia claussenii	Piper betle	Silybum marianum
+Trichilia catigua	Pinus taeda	Silene vulgaris
+Tribulus terrestris	Pinus tabuliformis	Silene dioica
+Tragopogon pratensis	Pinus sylvestris	Sigesbeckia pubescens
+Tragopogon porrifolius	Pinus radiata	Setaria viridis
+Tradescantia zebrina	Picea mariana	Setaria italica
+Tradescantia virginiana	Picea glauca	Setaria barbata
+Tradescantia spathacea	Picea engelmannii	Sesbania bispinosa
+Tradescantia pallida	Picea abies	Sesamum radiatum
+Tradescantia ohiensis	Phytolacca americana	Sesamum indicum
+Tradescantia fluminensis	Phtheirospermum japonicum	Serenoa repens
+Trachycarpus fortunei	Phragmites australis	Sequoiadendron giganteum
+Trachelospermum asiaticum	Phormium tenax	Senna tora
+Toxicopueraria peduncularis	Phoenix roebelenii	Senna siamea
+Toxicodendron vernix	Phoenix dactylifera	Senna obtusifolia
+Tovomita obovata	Phleum pratense	Senna hebecarpa
+Torreya grandis	Phaseolus vulgaris	Senna alexandrina
+Torilis japonica	Phaseolus lunatus	Senecio scandens
+Torenia fournieri	Phaseolus coccineus	Selenicereus undatus
+Tithonia rotundifolia	Petunia x hybrida	Selaginella uncinata
+Tinospora crispa	Petasites hybridus	Selaginella tamariscina
+Tinospora baenzigeri	Persea americana	Selaginella moellendorffii
+Tillandsia usneoides	Perilla frutescens	Selaginella lepidophylla
+Tiliacora triandra	Penstemon eatonii	Selaginella kraussiana
+Tilia tomentosa	Penstemon davidsonii	Seguieria aculeata
+Tilia americana	Paulownia tomentosa	Sedum album
+Tibouchina calycina	Paulownia fortunei	Secale cereale
+Tibouchina bicolor	Passiflora edulis	Scutellaria baicalensis
+Tiarella polyphylla	Paspalum vaginatum	Scurrula parasitica
+Thyrsanthera suborbicularis	Paspalum notatum	Scrophularia nodosa
+Thymus vulgaris	Parietaria judaica	Sciadopitys verticillata
+Thymus serpyllum	Papaver somniferum	Schizonepeta tenuifolia
+Thymus quinquecostatus	Papaver nudicaule	Schizachyrium scoparium
+Thymus praecox	Papaver bracteatum	Schisandra chinensis
+Thymus camphoratus	Papaver atlanticum	Schima wallichii
+Thunbergia mysorensis	Papaver armeniacum	Schima superba
+Thunbergia laurifolia	Panicum virgatum	Scaevola taccada
+Thunbergia battiscombei	Panicum miliaceum	Scabiosa columbaria
+Thunbergia alata	Panicum hallii	Saxifraga stolonifera
+Thuja plicata	Pandanus amaryllifolius	Saussurea amara
+Thuja occidentalis	Panax notoginseng	Saururus chinensis
+Thryallis latifolia	Panax ginseng	Sassafras albidum
+Thomandersia laurifolia	Paeonia lactiflora	Sarcobatus vermiculatus
+Thlaspi arvense	Pachyrhizus erosus	Saposhnikovia divaricata
+Thevetia peruviana	Ottelia alismoides	Saponaria officinalis
+Thermopsis montana	Osmanthus fragrans	Sanvitalia procumbens
+Theobroma grandiflorum	Oryza sativa	Sansevieria trifasciata
+Theobroma cacao	Oryza longistaminata	Sansevieria cylindrica
+Thalictrum thalictroides	Oryza glaberrima	Sanguisorba minor
+Thalictrum minus	Oryza barthii	Sanguinaria canadensis
+Thalictrum foliolosum	Orobanche hederae	Sambucus williamsii
+Thalictrum dioicum	Orobanche coerulescens	Sambucus nigra
+Thalictrum delavayi	Ormosia henryi	Sambucus javanica
+Teucrium veronicoides	Origanum vulgare	Sambucus canadensis
+Teucrium scorodonia	Olea europaea	Salvia splendens
+Teucrium montanum	Oenothera biennis	Salvia sclarea
+Tetrastigma strumarum	Ocimum tenuiflorum	Salvia rosmarinus
+Tetrastigma cruciatum	Ocimum basilicum	Salvia officinalis
+Tetrapterys schiedeana	Nyssa sinensis	Salvia miltiorrhiza
+Tetrapterys phlomoides	Nicotiana tomentosiformis	Salvia hispanica
+Tetrapterys mucronata	Nicotiana tabacum	Salvia divinorum
+Tetrapterys microphylla	Nicotiana sylvestris	Salix nigra
+Tetrapterys cardiophylla	Nicotiana rustica	Salix cinerea
+Tetrapterys ambigua	Nicotiana glauca	Sageretia thea
+Tetrapanax papyrifer	Nicotiana benthamiana	Sacciolepis striata
+Tetraneuris herbacea	Nicotiana attenuata	Saccharum officinarum
+Tetradium trichotomum	Nicandra physalodes	Ruta graveolens
+Tetradium ruticarpum	Nemophila menziesii	Rumex scutatus
+Tetradenia riparia	Nelumbo nucifera	Rumex nepalensis
+Tetracera indica	Musa velutina	Rumex japonicus
+Terminalia tetraphylla	Murraya koenigii	Rumex acetosa
+Terminalia phillyreifolia	Mucuna pruriens	Rudbeckia hirta
+Terminalia chebula	Morus alba	Rubus parviflorus
+Terminalia catappa	Moringa oleifera	Rubus occidentalis
+Terminalia calamansanay	Monarda citriodora	Rubus idaeus
+Tephrosia virginiana	Momordica charantia	Rubus coreanus
+Tectaria heracleifolia	Mitragyna speciosa	Rubus argutus
+Tectaria coadunata	Miscanthus floridulus	Rubia tinctorum
+Tecoma stans	Mimosa pudica	Rotheca myricoides
+Taxus chinensis	Mercurialis annua	Rosa rugosa
+Taxus brevifolia	Mentha suaveolens	Rosa palustris
+Taxus baccata	Mentha aquatica	Rosa multiflora
+Taxotrophis ilicifolia	Melilotus officinalis	Rosa laevigata
+Tasmannia piperita	Melia azedarach	Rosa chinensis
+Tarenaya hassleriana	Melaleuca alternifolia	Rohdea japonica
+Taraxacum platycarpum	Medicago truncatula	Robinia pseudoacacia
+Taraxacum officinale	Medicago sativa	Rivina humilis
+Tara spinosa	Medicago lupulina	Ricinus communis
+Tapirira guianensis	Matricaria chamomilla	Riccia cavernosa
+Tanacetum vulgare	Marsdenia floribunda	Ribes uva-crispa
+Tanacetum parthenium	Marchantia polymorpha	Ribes nigrum
+Tanacetum coccineum	Manihot esculenta	Ribes cynosbati
+Tanacetum balsamita	Mangifera indica	Rhus coriaria
+Tamilnadia uliginosa	Malva sylvestris	Rhus chinensis
+Tambourissa amplifolia	Malva neglecta	Rhododendron tomentosum
+Tamarix chinensis	Malus sylvestris	Rhododendron arborescens
+Talipariti tiliaceum	Malus sieversii	Rhodiola rosea
+Talinum paniculatum	Malus niedzwetzkyana	Rhodiola kirilowii
+Talinum fruticosum	Malus floribunda	Rhizophora mangle
+Tagetes patula	Malus domestica	Rhizophora apiculata
+Tagetes erecta	Mallotus nudiflorus	Rheum rhabarbarum
+Tachigali versicolor	Malania oleifera	Rheum palmatum
+Tachigali alba	Magnolia virginiana	Rheum officinale
+Tabernaemontana muricata	Magnolia officinalis	Rhaphiolepis indica
+Tabernaemontana flavicans	Macleaya cordata	Reynoutria japonica
+Tabernaemontana crassa	Macadamia integrifolia	Rehmannia glutinosa
+Tabernaemontana coffeoides	Lycium barbarum	Ratibida columnifera
+Tabernaemontana arborea	Lupinus luteus	Raphanus sativus
+Syzygium samarangense	Lupinus albus	Ranunculus acris
+Syzygium malaccense	Luffa aegyptiaca	Randia armata
+Syzygium jambos	Luffa acutangula	Radula complanata
+Syzygium cumini	Lonicera maackii	Quercus velutina
+Syzygium buxifolium	Lonicera japonica	Quercus suber
+Syzygium aromaticum	Lolium rigidum	Quercus stellata
+Syringodium filiforme	Lolium perenne	Quercus rubra
+Synsepalum dulcificum	Lolium multiflorum	Quercus phellos
+Symplocos setchuensis	Lobelia cardinalis	Quercus petraea
+Symplocos ramosissima	Lithospermum erythrorhizon	Quercus muehlenbergii
+Symplocos quitensis	Lithocarpus litseifolius	Quercus michauxii
+Symphytum officinale	Litchi chinensis	Quercus marilandica
+Symphyotrichum dumosum	Liquidambar styraciflua	Quercus lobata
+Symphonia globulifera	Liquidambar formosana	Quercus ilex
+Swietenia macrophylla	Lippia alba	Quercus glauca
+Swietenia humilis	Linum usitatissimum	Quercus falcata
+Swertia davidii	Linum trigynum	Quercus alba
+Swertia chirayita	Linum perenne	Quassia amara
+Swertia bimaculata	Linum grandiflorum	Quararibea asterolepis
+Sweetia fruticosa	Lindera aggregata	Qualea grandiflora
+Swartzia simplex	Linaria vulgaris	Pyrus communis
+Suregada zanzibariensis	Ligustrum vulgare	Pycnanthemum tenuifolium
+Suregada procera	Leucaena leucocephala	Punica granatum
+Succisa pratensis	Lepidium sativum	Pulsatilla vulgaris
+Suaeda calceoliformis	Lepidium apetalum	Pueraria montana
+Styrax pentlandianus	Leontodon hispidus	Pteridium aquilinum
+Styrax benzoin	Lavandula angustifolia	Psychotria marginata
+Styphnolobium japonicum	Laurus nobilis	Psychotria grandis
+Stylosanthes scabra	Lathyrus sativus	Psophocarpus tetragonolobus
+Stylosanthes biflora	Lathyrus oleraceus	Psilotum nudum
+Stylogyne turbacensis	Lapsana communis	Psidium guajava
+Stylidium debile	Lanxangia tsao-ko	Pseudotsuga menziesii
+Stryphnodendron pulcherrimum	Lamium purpureum	Pseudocydonia sinensis
+Stryphnodendron guianense	Lagenaria siceraria	Prunus virginiana
+Stryphnodendron adstringens	Lactuca virosa	Prunus serotina
+Strychnos umbellata	Lactuca sativa	Prunus persica
+Strychnos nux-vomica	Lactuca saligna	Prunus mume
+Strychnos madagascariensis	Laburnum anagyroides	Prunus mongolica
+Strychnos ignatii	Lablab purpureus	Prunus jamasakura
+Strychnos decussata	Kitagawia praeruptora	Prunus humilis
+Strophostyles helvola	Khaya senegalensis	Prunus dulcis
+Strophanthus hispidus	Juniperus thurifera	Prunus domestica
+Strophanthus gratus	Juniperus oxycedrus	Prunus cerasus
+Strombosia grandifolia	Juncus effusus	Prunus avium
+Streptocaulon juventas	Juglans sigillata	Prunus armeniaca
+Strelitzia reginae	Juglans regia	Prunus americana
+Stranvaesia davidiana	Juglans nigra	Prunus africana
+Stixis scandens	Juglans cinerea	Prunella vulgaris
+Stigmaphyllon vitifolium	Juglans cathayensis	Protium tenuifolium
+Stigmaphyllon urenifolium	Jatropha podagrica	Primula vulgaris
+Stigmaphyllon tomentosum	Jatropha multifida	Primula veris
+Stigmaphyllon sinuatum	Jasminum sambac	Potentilla lineata
+Stigmaphyllon saxicola	Jacobaea vulgaris	Potamogeton perfoliatus
+Stigmaphyllon salzmannii	Jacaranda mimosifolia	Portulaca oleracea
+Stigmaphyllon puberulum	Jacaranda copaia	Portulaca grandiflora
+Stigmaphyllon paralias	Isatis tinctoria	Populus trichocarpa
+Stigmaphyllon palmatum	Iris sibirica	Populus tremuloides
+Stigmaphyllon macropodum	Iris pallida	Populus nigra
+Stigmaphyllon lalandianum	Ipomoea triloba	Populus grandidentata
+Stigmaphyllon hatschbachii	Ipomoea purpurea	Populus deltoides
+Stigmaphyllon harleyi	Ipomoea nil	Populus alba
+Stigmaphyllon gayanum	Ipomoea batatas	Polytrichum strictum
+Stigmaphyllon convolvulifolium	Inula conyza	Polytrias indica
+Stigmaphyllon ciliatum	Inga oerstediana	Polystichum acrostichoides
+Stigmaphyllon cavernulosum	Inga leiocalycina	Polypodium vulgare
+Stigmaphyllon caatingicola	Inga laurina	Polygonum cuspidatum
+Stigmaphyllon bonariense	Impatiens balsamina	Polygonum aviculare
+Stigmaphyllon blanchetii	Ilex paraguariensis	Polygonatum sibiricum
+Stigmaphyllon auriculatum	Ilex aquifolium	Polygonatum odoratum
+Stigmaphyllon angustilobum	Hypnum cupressiforme	Polygonatum multiflorum
+Stigmaphyllon alternifolium	Hypericum perforatum	Polygonatum cyrtonema
+Stigmaphyllon acuminatum	Hypericum hirsutum	Polygala tenuifolia
+Stevia rebaudiana	Hydrangea macrophylla	Polemonium caeruleum
+Stereospermum neuranthum	Hura crepitans	Pogostemon cablin
+Stereospermum acuminatissimum	Humulus lupulus	Podophyllum peltatum
+Sterculia pexa	Houttuynia cordata	Podocarpus oleifolius
+Sterculia lanceolata	Hordeum vulgare	Podocarpus macrophyllus
+Stephania venosa	Homalomena aromatica	Podocarpus celatus
+Stephania rotunda	Hippophae rhamnoides	Poa pratensis
+Stephania japonica	Hibiscus syriacus	Plumeria rubra
+Stenochlaena palustris	Hibiscus sabdariffa	Plumbago indica
+Stemona japonica	Hibiscus cannabinus	Pluchea indica
+Stellera chamaejasme	Heracleum sphondylium	Pleurolobus gangeticus
+Stellaria alsine	Hemerocallis citrina	Plectranthus barbatus
+Steinchisma laxum	Helwingia omeiensis	Platycodon grandiflorus
+Stauntonia brunoniana	Helianthus tuberosus	Platycladus orientalis
+Staudtia kamerunensis	Helianthus annuus	Platanus occidentalis
+Staphylea trifolia	Hedychium gardnerianum	Plantago lanceolata
+Stapelia gigantea	Hedychium coronarium	Pittosporum tobira
+Stachyurus praecox	Hedera helix	Pistia stratiotes
+Stachytarpheta cayennensis	Handroanthus impetiginosus	Pistacia vera
+Squamellaria kajewskii	Handroanthus guayacan	Pistacia lentiscus
+Sporobolus anglicus	Hamamelis virginiana	Pistacia chinensis
+Spondias pinnata	Gypsophila vaccaria	Piper sarmentosum
+Spirolobium cambodianum	Gynostemma pentaphyllum	Piper retrofractum
+Spirodela polyrhiza	Gynochthodes officinalis	Piper nigrum
+Spiraea aquilegiifolia	Gynandropsis gynandra	Piper methysticum
+Spinacia oleracea	Gossypium trilobum	Piper longum
+Sphedamnocarpus angolensis	Gossypium tomentosum	Piper betle
+Sphagneticola trilobata	Gossypium stocksii	Piper auritum
+Sphagneticola calendulacea	Gossypium raimondii	Pinus virginiana
+Spermacoce alata	Gossypium mustelinum	Pinus taeda
+Spathodea campanulata	Gossypium lobatum	Pinus tabuliformis
+Spathiphyllum wallisii	Gossypium klotzschianum	Pinus sylvestris
+Sparganium stoloniferum	Gossypium hirsutum	Pinus strobus
+Souroubea guianensis	Gossypium herbaceum	Pinus radiata
+Sorocea guilleminiana	Gossypium gossypioides	Pinus pungens
+Sorocea affinis	Gossypium davidsonii	Pinus pinaster
+Sorghum bicolor	Gossypium darwinii	Pinus nigra
+Sorbus aucuparia	Gossypium barbadense	Pinus merkusii
+Sophora viciifolia	Gossypium australe	Pinus longaeva
+Sophora tonkinensis	Gossypium armourianum	Pinus halepensis
+Sophora flavescens	Gossypium aridum	Pinus flexilis
+Sonchus oleraceus	Gossypium arboreum	Pinus fenzeliana
+Solidago virgaurea	Gossypium anomalum	Pinus densiflora
+Solena amplexicaulis	Glycyrrhiza uralensis	Pinus banksiana
+Solanum verrucosum	Glycine soja	Pinellia ternata
+Solanum umbelliferum	Glycine max	Picrasma quassioides
+Solanum tuberosum	Gleditsia sinensis	Picea pungens
+Solanum swartzianum	Glechoma hederacea	Picea mariana
+Solanum stramoniifolium	Ginkgo biloba	Picea glauca
+Solanum sessiliflorum	Geum urbanum	Picea engelmannii
+Solanum sakhanii	Geum rivale	Picea abies
+Solanum quitoense	Geranium pratense	Phytolacca americana
+Solanum pseudoquina	Geranium maculatum	Phytolacca acinosa
+Solanum pinnatisectum	Gentiana macrophylla	Physalis peruviana
+Solanum pimpinellifolium	Gaultheria shallon	Physalis angulata
+Solanum peruvianum	Gastrodia elata	Phyllostachys nigra
+Solanum pennellii	Gardenia jasminoides	Phyla dulcis
+Solanum ochrophyllum	Fraxinus pennsylvanica	Phtheirospermum japonicum
+Solanum nigrum	Fraxinus nigra	Phragmites australis
+Solanum melongena	Fraxinus excelsior	Photinia glabra
+Solanum maturecalvans	Fraxinus chinensis	Phormium tenax
+Solanum macrocarpon	Fraxinus angustifolia	Phoenix dactylifera
+Solanum lycopersicum	Fraxinus americana	Phoebe tavoyana
+Solanum lasiocarpum	Frangula alnus	Phlox paniculata
+Solanum heteracanthum	Fragaria x ananassa	Phlox drummondii
+Solanum habrochaites	Fragaria vesca	Phlomis fruticosa
+Solanum erythracanthum	Fragaria orientalis	Phleum pratense
+Solanum dulcamara	Forsythia suspensa	Phillyrea latifolia
+Solanum commersonii	Filipendula ulmaria	Phellodendron amurense
+Solanum clandestinum	Ficus hirta	Phaseolus vulgaris
+Solanum cladotrichum	Ficus carica	Phaseolus lunatus
+Solanum chilense	Fallopia multiflora	Phaseolus coccineus
+Solanum capsicoides	Fagus sylvatica	Phacelia campanularia
+Solanum caavurana	Fagopyrum tataricum	Peumus boldus
+Solanum bulbocastanum	Fagopyrum esculentum	Peucedanum japonicum
+Solanum betaceum	Euptelea pleiosperma	Petunia x hybrida
+Solanum asperum	Euphorbia tirucalli	Petunia exserta
+Solanum argenteum	Euphorbia peplus	Petunia axillaris
+Solanum arcanum	Euphorbia lathyris	Petroselinum crispum
+Solanum aphyodendron	Eugenia uniflora	Petasites hybridus
+Solanum americanum	Eucommia ulmoides	Persicaria orientalis
+Soaresia velutina	Eucalyptus grandis	Persea americana
+Smilax ferox	Eucalyptus camaldulensis	Perilla frutescens
+Smilax china	Eschscholzia californica	Pereskia grandifolia
+Smallanthus sonchifolius	Erythroxylum subrotundum	Peperomia pellucida
+Sloanea terniflora	Erythroxylum coca	Pentanema britannica
+Sloanea grandiflora	Erythroxylum citrifolium	Penstemon hartwegii
+Sium sisarum	Erythranthe guttata	Penstemon eatonii
+Sisyrinchium bellum	Erysimum cheiri	Penstemon davidsonii
+Sisymbrium officinale	Eriobotrya japonica	Pelargonium graveolens
+Siparuna thecaphora	Erigeron canadensis	Peganum harmala
+Siparuna guianensis	Erigeron breviscapus	Paulownia tomentosa
+Siparuna bifida	Eragrostis curvula	Paulownia fortunei
+Sinosenecio villiferus	Eperua falcata	Pastinaca sativa
+Sinomenium acutum	Ensete ventricosum	Passiflora tenuiloba
+Sinapis alba	Elaeagnus angustifolia	Passiflora pittieri
+Sinacalia tangutica	Echinochloa crus-galli	Passiflora oerstedii
+Simmondsia chinensis	Dysphania ambrosioides	Passiflora edulis
+Simira rubescens	Dracaena draco	Passiflora caerulea
+Simarouba amara	Dracaena cambodiana	Passiflora biflora
+Silybum marianum	Dipteronia sinensis	Passiflora auriculata
+Silphium terebinthinaceum	Diospyros lotus	Paspalum vaginatum
+Siler montanum	Diospyros kaki	Paspalum scrobiculatum
+Silene vulgaris	Dimocarpus longan	Paspalum notatum
+Silene firma	Digitaria exilis	Parietaria judaica
+Silene dioica	Dichanthelium oligosanthes	Paraboea rufescens
+Sigesbeckia pubescens	Dianthus caryophyllus	Papaver somniferum
+Sigesbeckia glabrescens	Dendrobium officinale	Papaver rhoeas
+Sideroxylon obtusifolium	Daucus carota	Papaver nudicaule
+Sideroxylon lanuginosum	Datura stramonium	Papaver bracteatum
+Sideritis pungens	Dasiphora fruticosa	Papaver atlanticum
+Siderasis fuscata	Dactylis glomerata	Papaver armeniacum
+Sida rhombifolia	Cyperus rotundus	Panicum virgatum
+Sida abutifolia	Cyperus esculentus	Panicum miliaceum
+Setaria viridis	Cynara cardunculus	Panicum hallii
+Setaria italica	Cynanchum wilfordii	Pandanus amaryllifolius
+Setaria barbata	Cymbopogon citratus	Panax notoginseng
+Sesbania javanica	Cydonia oblonga	Panax ginseng
+Sesbania emerus	Cyclocarya paliurus	Palicourea deflexa
+Sesbania bispinosa	Curcuma longa	Palicourea brachiata
+Sesamum radiatum	Cupressus sempervirens	Paeonia suffruticosa
+Sesamum indicum	Cucurbita moschata	Paeonia lactiflora
+Serenoa repens	Cucurbita maxima	Paeonia delavayi
+Sequoiadendron giganteum	Cucumis sativus	Pachystachys lutea
+Senna tora	Cucumis melo	Pachyrhizus erosus
+Senna timoriensis	Cryptomeria japonica	Oxyspora paniculata
+Senna sulfurea	Crotalaria pallida	Oxalis triangularis
+Senna siamea	Crocus sativus	Ottochloa nodosa
+Senna obtusifolia	Crataegus pinnatifida	Ottelia alismoides
+Senna multijuga	Crataegus laevigata	Ostrya virginiana
+Senna meridionalis	Crambe hispanica	Ostericum grosseserratum
+Senna hebecarpa	Costus scaber	Osmanthus yunnanensis
+Senna gaudichaudii	Corylus avellana	Osmanthus fragrans
+Senna garrettiana	Corylus americana	Oryza sativa
+Senna alexandrina	Cornus florida	Oryza longistaminata
+Senegalia roemeriana	Corchorus olitorius	Oryza glaberrima
+Senegalia polyphylla	Corchorus capsularis	Oryza barthii
+Senecio scandens	Colocasia esculenta	Orobanche coerulescens
+Senecio doronicum	Coffea canephora	Ormosia henryi
+Sempervivum tectorum	Coffea arabica	Origanum vulgare
+Selenicereus undatus	Codonopsis pilosula	Origanum majorana
+Selaginella uncinata	Codonopsis lanceolata	Orchidantha maxillarioides
+Selaginella tamariscina	Cocos nucifera	Opuntia streptacantha
+Selaginella moellendorffii	Clitoria ternatea	Opuntia ficus-indica
+Selaginella lepidophylla	Citrus x limon	Ononis spinosa
+Selaginella kraussiana	Citrus x aurantium	Onoclea sensibilis
+Selaginella delicatula	Citrus x aurantiifolia	Onobrychis viciifolia
+Selaginella davidii	Citrus unshiu	Olea europaea
+Seguieria aculeata	Citrus trifoliata	Oenothera speciosa
+Sedum album	Citrus sinensis	Oenothera biennis
+Secamone ligustrifolia	Citrus reticulata	Ocimum tenuiflorum
+Secale cereale	Citrus cavaleriei	Ocimum basilicum
+Sebastiania brasiliensis	Citrullus lanatus	Ochrosia elliptica
+Scutia myrtina	Citrullus colocynthis	Nyssa sylvatica
+Scutia eberhardtii	Cinnamomum aromaticum	Nyssa sinensis
+Scutellaria rubicunda	Cinchona pubescens	Nymphaea nouchali
+Scutellaria barbata	Cinchona calisaya	Nymphaea lotus
+Scutellaria baicalensis	Cichorium intybus	Nymphaea alba
+Scutellaria altissima	Cichorium endivia	Nothofagus obliqua
+Scurrula parasitica	Cicer arietinum	Nigella damascena
+Scrophularia nodosa	Cibotium barometz	Nicotiana tomentosiformis
+Scrophularia ningpoensis	Chenopodium quinoa	Nicotiana tabacum
+Scrophularia marilandica	Chelidonium majus	Nicotiana sylvestris
+Scrophularia buergeriana	Chamaenerion angustifolium	Nicotiana rustica
+Scopolia japonica	Cercis canadensis	Nicotiana glauca
+Scleromitrion verticillatum	Ceratonia siliqua	Nicotiana benthamiana
+Scleromitrion diffusum	Centella asiatica	Nicotiana attenuata
+Scleria ciliaris	Cenchrus americanus	Nicotiana alata
+Scindapsus officinalis	Catharanthus roseus	Nicandra physalodes
+Sciadopitys verticillata	Casuarina equisetifolia	Nerium oleander
+Schoenoplectus pungens	Castanea mollissima	Nephrolepis exaltata
+Schnella rutilans	Castanea dentata	Nephrolepis biserrata
+Schleichera oleosa	Castanea crenata	Nepeta cataria
+Schlechtendalia luzulifolia	Carya illinoinensis	Nepenthes ventricosa x Nepenthes alata
+Schkuhria pinnata	Carthamus tinctorius	Nepenthes rafflesiana
+Schizonepeta tenuifolia	Carica papaya	Nepenthes ampullaria
+Schizonepeta multifida	Carallia brachiata	Neoregelia carolinae
+Schizachyrium scoparium	Capsicum chinense	Neolitsea sericea
+Schisandra propinqua	Capsicum baccatum	Nemophila menziesii
+Schisandra chinensis	Capsicum annuum	Nelumbo nucifera
+Schinus terebinthifolia	Cannabis sativa	Nauclea officinalis
+Schinopsis brasiliensis	Canna indica	Nardostachys jatamansi
+Schima wallichii	Canavalia gladiata	Nandina domestica
+Schima superba	Camellia sinensis	Myristica fragrans
+Schima sinensis	Camellia japonica	Myosoton aquaticum
+Scaphium affine	Camelina sativa	Mutarda arvensis
+Scandix pecten-veneris	Calluna vulgaris	Musa basjoo
+Scaevola taccada	Calendula officinalis	Musa acuminata
+Scabiosa japonica	Cajanus cajan	Murraya koenigii
+Scabiosa columbaria	Buxus sempervirens	Mucuna pruriens
+Saxifraga stolonifera	Bruguiera cylindrica	Morus nigra
+Saussurea amara	Brassica rapa	Morus alba
+Saururus chinensis	Brassica oleracea	Moringa oleifera
+Saurauia spectabilis	Brassica nigra	Morinda citrifolia
+Satyrium nepalense	Brassica napus	Morella pensylvanica
+Satureja montana	Brassica juncea	Monarda citriodora
+Satureja hortensis	Brassica cretica	Momordica cochinchinensis
+Sassafras albidum	Brassica carinata	Momordica charantia
+Sarracenia flava	Brachythecium rutabulum	Mitragyna speciosa
+Sarcomphalus thyrsiflorus	Brachypodium distachyon	Miscanthus floridulus
+Sarcomphalus guatemalensis	Boswellia sacra	Mirabilis jalapa
+Sarcococca ruscifolia	Borassus flabellifer	Mimosa pudica
+Sarcobatus vermiculatus	Bombax ceiba	Mikania cordifolia
+Sarcaulus brasiliensis	Boehmeria nivea	Metasequoia glyptostroboides
+Saposhnikovia divaricata	Biancaea sappan	Mercurialis annua
+Saponaria officinalis	Betula pendula	Menyanthes trifoliata
+Sapium baccatum	Beta vulgaris	Mentha suaveolens
+Sapindus saponaria	Bertholletia excelsa	Mentha spicata
+Sanvitalia procumbens	Berberis thunbergii	Mentha canadensis
+Santolina elegans	Berberis aquifolium	Mentha arvensis
+Sansevieria trifasciata	Benincasa hispida	Mentha aquatica
+Sansevieria metallica	Bellis perennis	Melissa officinalis
+Sansevieria cylindrica	Bauhinia variegata	Melilotus officinalis
+Sanicula astrantiifolia	Bassia scoparia	Melilotus albus
+Sanguisorba officinalis	Ballota nigra	Melia azedarach
+Sanguisorba minor	Azadirachta indica	Melaleuca alternifolia
+Sanguinaria canadensis	Avena sativa	Megathyrsus maximus
+Sambucus williamsii	Avena nuda	Medinilla magnifica
+Sambucus sieboldiana	Avena barbata	Medicago truncatula
+Sambucus racemosa	Aurinia saxatilis	Medicago sativa
+Sambucus nigra	Astragalus membranaceus	Medicago lupulina
+Sambucus javanica	Astragalus glycyphyllos	Mayaca fluviatilis
+Sambucus canadensis	Asparagus officinalis	Mauritia flexuosa
+Sambucus adnata	Asimina triloba	Matricaria chamomilla
+Salvinia minima	Asclepias incarnata	Marsilea quadrifolia
+Salvia verticillata	Asclepias curassavica	Marrubium vulgare
+Salvia splendens	Artocarpus heterophyllus	Marchantia polymorpha
+Salvia sclarea	Artemisia princeps	Maranta leuconeura
+Salvia rosmarinus	Artemisia ludoviciana	Manilkara zapota
+Salvia pratensis	Artemisia argyi	Manihot esculenta
+Salvia officinalis	Artemisia annua	Mangifera indica
+Salvia nemorosa	Arnica montana	Mammea americana
+Salvia miltiorrhiza	Armoracia rusticana	Malva sylvestris
+Salvia hispanica	Aristolochia fimbriata	Malva neglecta
+Salvia glutinosa	Aristolochia californica	Malus sylvestris
+Salvia divinorum	Argentina anserina	Malus sieversii
+Salvia apiana	Areca catechu	Malus pumila
+Salvadora persica	Arctium lappa	Malus niedzwetzkyana
+Salvadora angustifolia	Arbutus unedo	Malus floribunda
+Salsola tragus	Arachis stenosperma	Malus domestica
+Salix nigra	Arachis ipaensis	Malania oleifera
+Salix elaeagnos	Arachis hypogaea	Magnolia officinalis
+Salix cinerea	Arabis hirsuta	Magnolia obovata
+Salacighia letestuana	Arabis alpina	Magnolia grandiflora
+Salacia impressifolia	Arabidopsis thaliana	Magnolia denudata
+Salacia chinensis	Arabidopsis lyrata	Maclura tricuspidata
+Sageretia thea	Aquilegia vulgaris	Maclura cochinchinensis
+Sacciolepis striata	Aquilegia coerulea	Macleaya microcarpa
+Saccharum officinarum	Aquilaria agallochum	Macleaya cordata
+Sabia schumanniana	Apium graveolens	Macadamia integrifolia
+Ruta montana	Apios americana	Lygodium japonicum
+Ruta graveolens	Anthyllis vulneraria	Lycopus lucidus
+Ruta corsica	Annona cherimola	Lycium chinense
+Ruscus hypoglossum	Anethum graveolens	Lycium barbarum
+Ruscus aculeatus	Anethum foeniculum	Lupinus luteus
+Ruschia maxima	Andrographis paniculata	Lupinus albus
+Ruprechtia laxiflora	Ananas comosus	Lunaria annua
+Ruprechtia apetala	Anacardium occidentale	Luffa aegyptiaca
+Rungia pectinata	Amorphophallus konjac	Luffa acutangula
+Rungia klossii	Ambrosia artemisiifolia	Lotus corniculatus
+Rumex stenophyllus	Amaranthus tuberculatus	Loropetalum chinense
+Rumex scutatus	Amaranthus tricolor	Lophatherum gracile
+Rumex nepalensis	Amaranthus retroflexus	Lonicera tatarica
+Rumex japonicus	Amaranthus hypochondriacus	Lonicera maackii
+Rumex crispus	Amaranthus hybridus	Lonicera japonica
+Rumex acetosa	Amaranthus cruentus	Lolium rigidum
+Rudbeckia laciniata	Alpinia oxyphylla	Lolium perenne
+Rudbeckia hirta	Alpinia officinarum	Lolium multiflorum
+Rubus phoenicolasius	Alpinia galanga	Lobularia maritima
+Rubus parviflorus	Alnus glutinosa	Lobelia siphilitica
+Rubus occidentalis	Allium sativum	Lobelia cardinalis
+Rubus idaeus	Allium cepa	Lithospermum erythrorhizon
+Rubus fruticosus	Alliaria petiolata	Lithocarpus litseifolius
+Rubus coreanus	Alisma plantago-aquatica	Litchi chinensis
+Rubus argutus	Alcea rosea	Liriope muscari
+Rubus allegheniensis	Albizia julibrissin	Liriodendron tulipifera
+Rubia tinctorum	Ailanthus altissimus	Liquidambar styraciflua
+Rubia cordifolia	Agrostemma githago	Liquidambar formosana
+Rubia argyi	Agave tequilana	Lippia alba
+Ruagea glabra	Agastache rugosa	Linum usitatissimum
+Rotheca serrata	Aesculus hippocastanum	Linum trigynum
+Rotheca myricoides	Aegle marmelos	Linum perenne
+Rosa rugosa	Aegilops speltoides	Linum grandiflorum
+Rosa palustris	Adansonia rubrostipa	Linum flavum
+Rosa multiflora	Adansonia grandidieri	Lindera obtusiloba
+Rosa micrantha	Adansonia digitata	Lindera benzoin
+Rosa laevigata	Actinidia deliciosa	Lindera aggregata
+Rosa davurica	Actinidia chinensis	Lindenbergia philippensis
+Rosa chinensis	Acorus gramineus	Linaria vulgaris
+Rosa carolina	Acorus calamus	Limnanthes douglasii
+Rosa canina	Acer saccharum	Lilium lancifolium
+Rohdea japonica	Acer negundo	Lilium brownii
+Robinia viscosa	Acer campestre	Ligustrum vulgare
+Robinia pseudoacacia	Acacia crassicarpa	Ligustrum lucidum
+Robinia hispida	Abrus precatorius	Liatris spicata
+Rivina humilis	Abelmoschus esculentus	Levisticum officinale
+Rinorea sylvatica		Leucophyllum frutescens
+Ricinus communis		Leucanthemum vulgare
+Riccia subbifurca		Leucaena leucocephala
+Riccia sorocarpa		Lepidium sativum
+Riccia pusilla		Lepidium meyenii
+Riccia huebeneriana		Lepidium apetalum
+Riccia gougetiana		Leonurus cardiaca
+Riccia ciliifera		Leontopodium nivale
+Riccia cavernosa		Leontodon hispidus
+Riccia canaliculata		Lens culinaris
+Riccia bifurca		Leersia hexandra
+Riccia beyrichiana		Lavandula dentata
+Ribes uva-crispa		Lavandula angustifolia
+Ribes nigrum		Laurus nobilis
+Ribes montigenum		Lathyrus sativus
+Ribes cynosbati		Lathyrus oleraceus
+Ribes cereum		Larix laricina
+Ribes alpinum		Larix decidua
+Rhytidiadelphus squarrosus		Lapsana communis
+Rhus coriaria		Lanxangia tsao-ko
+Rhus copallinum		Lamium purpureum
+Rhus chinensis		Lamium album
+Rhus aromatica		Lagenaria siceraria
+Rhodostemonodaphne recurva		Lactuca virosa
+Rhodostemonodaphne kunthiana		Lactuca sativa
+Rhododendron tomentosum		Lactuca saligna
+Rhododendron menziesii		Laburnum anagyroides
+Rhododendron macrophyllum		Lablab purpureus
+Rhododendron arborescens		Krascheninnikovia lanata
+Rhodocoma capensis		Kitagawia praeruptora
+Rhodiola rosea		Kerria japonica
+Rhodiola kirilowii		Kalopanax septemlobus
+Rhizophora mangle		Kadsura coccinea
+Rhizophora apiculata		Juniperus virginiana
+Rheum undulatum		Juniperus scopulorum
+Rheum rhaponticum		Juniperus sabina
+Rheum rhabarbarum		Juniperus communis
+Rheum palmatum		Juncus effusus
+Rheum officinale		Juglans sigillata
+Rhaponticum scariosum		Juglans regia
+Rhaphiolepis umbellata		Juglans nigra
+Rhaphiolepis indica		Juglans cinerea
+Rhaphidophora decursiva		Juglans cathayensis
+Rhamnus utilis		Jeffersonia diphylla
+Rhamnus subapetala		Jatropha podagrica
+Rhamnus sphaerosperma		Jatropha multifida
+Rhamnus parvifolia		Jasminum sambac
+Rhamnus leptophylla		Jacobaea vulgaris
+Rhamnus koraiensis		Jacaranda mimosifolia
+Rhamnus hainanensis		Isoetes lacustris
+Rhamnus globosa		Isodon ternifolius
+Rhamnus erythroxylon		Isodon japonicus
+Rhamnus dumetorum		Isatis tinctoria
+Rhamnus diamantiaca		Iris pseudacorus
+Rhamnus davurica		Iris lactea
+Rhamnus crenata		Iris germanica
+Rhamnus cathartica		Iris domestica
+Rhamnella tonkinensis		Ipomoea triloba
+Rhamnella franguloides		Ipomoea quamoclit
+Reynoutria japonica		Ipomoea purpurea
+Reseda media		Ipomoea nil
+Reseda lutea		Ipomoea lobata
+Renealmia pluriplicata		Ipomoea batatas
+Renealmia cernua		Inula helenium
+Renealmia alpinia		Inula conyza
+Rehmannia glutinosa		Inga vera
+Reboulia hemisphaerica		Inga umbellifera
+Rauvolfia vomitoria		Inga spectabilis
+Rauvolfia sellowii		Inga sapindoides
+Rauvolfia media		Inga pezizifera
+Rauvolfia leptophylla		Inga oerstediana
+Ratibida pinnata		Inga leiocalycina
+Ratibida columnifera		Inga laurina
+Raphanus sativus		Inga capitata
+Ranunculus repens		Inga brachystachys
+Ranunculus acris		Inga alba
+Randia armata		Inga alata
+Radula complanata		Indigofera tinctoria
+Quiina florida		Imperata cylindrica
+Quercus x hawkinsiae		Impatiens balsamina
+Quercus velutina		Illicium verum
+Quercus suber		Ilex verticillata
+Quercus stellata		Ilex paraguariensis
+Quercus rubra		Ilex aquifolium
+Quercus phellos		Hypericum perforatum
+Quercus petraea		Hypericum kalmianum
+Quercus pagoda		Hyoscyamus niger
+Quercus muehlenbergii		Hylotelephium erythrostictum
+Quercus michauxii		Hydrocotyle umbellata
+Quercus marilandica		Hydrocharis dubia
+Quercus lobata		Hydrangea quercifolia
+Quercus ilex		Hydrangea macrophylla
+Quercus glauca		Huperzia serrata
+Quercus falcata		Humulus lupulus
+Quercus coccinea		Hovenia acerba
+Quercus alba		Houttuynia cordata
+Quassia amara		Hordeum vulgare
+Quassia africana		Holodiscus discolor
+Quararibea asterolepis		Holocalyx balansae
+Qualea grandiflora		Holmskioldia sanguinea
+Pyrus communis		Holcus lanatus
+Pyrrosia lingua		Holarrhena pubescens
+Pyrrosia gralla		Hiptage benghalensis
+Pyrola japonica		Hippophae rhamnoides
+Pyracantha coccinea		Hildaea pallens
+Pycnocoma chevalieri		Hibiscus syriacus
+Pycnanthemum virginianum		Hibiscus sabdariffa
+Pycnanthemum tenuifolium		Hibiscus cannabinus
+Punica granatum		Heuchera sanguinea
+Pulsatilla vulgaris		Heteropterys laurifolia
+Pulsatilla cernua		Hesperis matronalis
+Pueraria montana		Heracleum sphondylium
+Ptychopetalum olacoides		Heptapleurum delavayi
+Ptilochaeta bahiensis		Heptapleurum arboricola
+Pterolobium stellatum		Hepatica nobilis
+Pterodon emarginatus		Hemerocallis fulva
+Pterocarpus rohrii		Hemerocallis citrina
+Pterocarpus macrocarpus		Hemarthria compressa
+Pteris similis		Helwingia omeiensis
+Pteridium aquilinum		Helleborus foetidus
+Ptelea trifoliata		Helleborus argutifolius
+Psychotria tenuifolia		Heliotropium arborescens
+Psychotria racemosa		Helianthus tuberosus
+Psychotria psychotriifolia		Helianthus annuus
+Psychotria poeppigiana		Helenium autumnale
+Psychotria micrantha		Hedychium coronarium
+Psychotria marginata		Hedera helix
+Psychotria limonensis		Haworthia cooperi
+Psychotria horizontalis		Handroanthus serratifolius
+Psychotria hoffmannseggiana		Handroanthus impetiginosus
+Psychotria grandis		Handroanthus chrysanthus
+Psychotria graciliflora		Hamamelis virginiana
+Psychotria gracilenta		Hamamelis vernalis
+Psychotria chagrensis		Gypsophila vaccaria
+Psychotria capitata		Gynostemma pubescens
+Psychotria bacteriophila		Gynostemma pentaphyllum
+Psorothamnus spinosus		Gynochthodes officinalis
+Psophocarpus tetragonolobus		Gynandropsis gynandra
+Psilotum nudum		Gymnocladus dioicus
+Psidium guajava		Gymnanthemum amygdalinum
+Psidium cattleyanum		Gunnera manicata
+Psiadia glutinosa		Guilandina bonduc
+Psiadia angustifolia		Guarea guidonia
+Psiadia altissima		Griselinia littoralis
+Pseudoturritis turrita		Grimmia pulvinata
+Pseudotsuga menziesii		Grevillea robusta
+Pseudolmedia rigida		Gossypium trilobum
+Pseudolmedia macrophylla		Gossypium tomentosum
+Pseudolmedia laevis		Gossypium stocksii
+Pseudolmedia laevigata		Gossypium raimondii
+Pseudognaphalium canescens		Gossypium mustelinum
+Pseudocydonia sinensis		Gossypium klotzschianum
+Pseudobombax septenatum		Gossypium hirsutum
+Pseudobombax ellipticum		Gossypium herbaceum
+Prunus virginiana		Gossypium davidsonii
+Prunus tomentosa		Gossypium darwinii
+Prunus spinosa		Gossypium barbadense
+Prunus serotina		Gossypium australe
+Prunus persica		Gossypium arboreum
+Prunus mume		Gossypium anomalum
+Prunus mongolica		Gonocaryum lobbianum
+Prunus jamasakura		Glycyrrhiza uralensis
+Prunus integrifolia		Glycyrrhiza lepidota
+Prunus humilis		Glycyrrhiza glabra
+Prunus dulcis		Glycine soja
+Prunus domestica		Glycine max
+Prunus dielsiana		Globba winitii
+Prunus cerasus		Glehnia littoralis
+Prunus brittoniana		Gleditsia triacanthos
+Prunus avium		Gleditsia sinensis
+Prunus armeniaca		Gleditsia japonica
+Prunus amplifolia		Glechoma longituba
+Prunus americana		Glechoma hederacea
+Prunus africana		Ginkgo biloba
+Prunella vulgaris		Geum urbanum
+Prunella grandiflora		Geum rivale
+Protium tenuifolium		Geranium pratense
+Protium panamense		Geranium maculatum
+Protium costaricense		Gentiana scabra
+Protium confusum		Gentiana macrophylla
+Proteopsis argentea		Gentiana cephalantha
+Pristimera indica		Gentiana acaulis
+Prismatomeris tetrandra		Gelsemium sempervirens
+Prioria copaifera		Gastrodia elata
+Primula vulgaris		Gardenia jasminoides
+Primula veris		Garcinia mangostana
+Primula auricula		Galium mollugo
+Preslianthus pittieri		Galega officinalis
+Praecereus saxicola		Fritillaria thunbergii
+Pouzolzia sanguinea		Fritillaria cirrhosa
+Pouteria torta		Fraxinus pennsylvanica
+Pouteria reticulata		Fraxinus nigra
+Pouteria hispida		Fraxinus excelsior
+Pouteria durlandii		Fraxinus chinensis
+Pouteria cuspidata		Fraxinus americana
+Pouteria caimito		Frangula caroliniana
+Pouteria bilocularis		Francoa appendiculata
+Pouteria baehniana		Fragaria x ananassa
+Pourouma minor		Fragaria vesca
+Pourouma guianensis		Fragaria orientalis
+Pourouma bicolor		Fouquieria macdougalii
+Poulsenia armata		Forsythia suspensa
+Potentilla verna		Flagellaria indica
+Potentilla reptans		Flacourtia jangomas
+Potentilla lineata		Fittonia albivenis
+Potentilla erecta		Fissidens taxifolius
+Potentilla chinensis		Filipendula ulmaria
+Potamogeton perfoliatus		Ficus tikoua
+Portulaca oleracea		Ficus obtusifolia
+Portulaca grandiflora		Ficus hirta
+Populus trichocarpa		Ficus carica
+Populus tremuloides		Ficus benghalensis
+Populus nigra		Ficus altissima
+Populus grandidentata		Festuca rubra
+Populus deltoides		Festuca pratensis
+Populus alba		Ferula assa-foetida
+Pontederia hastata		Fallopia multiflora
+Pombalia prunifolia		Fagus sylvatica
+Polytrichum strictum		Fagus grandifolia
+Polytrias indica		Fagopyrum tataricum
+Polystichum acrostichoides		Fagopyrum esculentum
+Polyspora axillaris		Euterpe oleracea
+Polypodium vulgare		Eurycoma longifolia
+Polygonum suffultum		Euptelea pleiosperma
+Polygonum plebeium		Euphorbia tirucalli
+Polygonum cuspidatum		Euphorbia peplus
+Polygonum aviculare		Euphorbia pekinensis
+Polygonatum sibiricum		Euphorbia lathyris
+Polygonatum odoratum		Euphorbia kansui
+Polygonatum multiflorum		Eupatorium cannabinum
+Polygonatum cyrtonema		Euonymus alatus
+Polygala tenuifolia		Eugenia uniflora
+Polygala fallax		Eugenia nesiotica
+Polygala chamaebuxus		Eucommia ulmoides
+Polemonium caeruleum		Eucalyptus grandis
+Pogostemon cablin		Eucalyptus camaldulensis
+Podophyllum peltatum		Eschweilera coriacea
+Podocarpus oleifolius		Eschscholzia californica
+Podocarpus madagascariensis		Erythroxylum coca
+Podocarpus macrophyllus		Erythrina herbacea
+Podocarpus ingensis		Erythranthe guttata
+Podocarpus celatus		Erythranthe cardinalis
+Podanthus ovatifolius		Erysimum cheiri
+Poa pratensis		Eryngium foetidum
+Plumeria rubra		Eruca vesicaria
+Plumeria alba		Eriobotrya japonica
+Plumbago indica		Erigeron canadensis
+Pluchea indica		Erigeron breviscapus
+Pluchea grevei		Eremophila lucida
+Pleurothyrium trianae		Eremophila denticulata
+Pleurostylia pachyphloea		Eragrostis curvula
+Pleurostylia africana		Equisetum hyemale
+Pleurolobus gangeticus		Epipremnum aureum
+Pleiostachya pruinosa		Epimedium koreanum
+Plectranthus bipinnatus		Epimedium brevicornu
+Plectranthus barbatus		Ephedra viridis
+Plectaneia stenophylla		Ephedra sinica
+Platypodium elegans		Ephedra equisetina
+Platycodon grandiflorus		Ensete ventricosum
+Platycladus orientalis		Enkianthus quinqueflorus
+Platycerium angolense		Encephalartos altensteinii
+Platanus occidentalis		Emilia sonchifolia
+Plantago media		Emblica officinalis
+Plantago lanceolata		Elsholtzia fruticosa
+Plantago asiatica		Elsholtzia ciliata
+Plagiomnium undulatum		Eleutherococcus sessiliflorus
+Pittosporum tobira		Eleutherococcus senticosus
+Pithecellobium unguis-cati		Eleusine coracana
+Pithecellobium dulce		Elettaria cardamomum
+Pitcairnia flammea		Elaeagnus angustifolia
+Pistia stratiotes		Edgeworthia chrysantha
+Pistacia vera		Eclipta prostrata
+Pistacia lentiscus		Echium vulgare
+Pistacia chinensis		Echinochloa crus-galli
+Pistacia atlantica		Echinacea purpurea
+Pisonia zapallo		Echinacea angustifolia
+Piranhea trifoliata		Dysphania ambrosioides
+Piptolepis monticola		Duranta erecta
+Piptolepis campestris		Dryopteris crassirhizoma
+Piptadeniastrum africanum		Dryobalanops aromatica
+Piptadenia buchtienii		Drosera burmannii
+Piper wallichii		Drosera binata
+Piper schiedeanum		Dracocephalum officinale
+Piper sarmentosum		Dracaena cochinchinensis
+Piper retrofractum		Dracaena cambodiana
+Piper reticulatum		Dracaena angustifolia
+Piper perlasense		Dovyalis caffra
+Piper peltatum		Dolomiaea costus
+Piper nigrum		Dodonaea viscosa
+Piper methysticum		Dipteryx oleifera
+Piper massiei		Dipteronia sinensis
+Piper martensianum		Dipsacus fullonum
+Piper marginatum		Dipsacus asperoides
+Piper longum		Diplazium esculentum
+Piper hostmannianum		Diospyros virginiana
+Piper hispidum		Diospyros lotus
+Piper fimbriulatum		Diospyros kaki
+Piper erectipilum		Diospyros cathayensis
+Piper cubeba		Dioscorea tokoro
+Piper cordulatum		Dioscorea polystachya
+Piper colonense		Dioscorea communis
+Piper chaudocanum		Dioon edule
+Piper betle		Dimocarpus longan
+Piper auritum		Dillenia indica
+Piper arboreum		Digitaria exilis
+Piper aequale		Digitalis purpurea
+Pinus virginiana		Dictamnus dasycarpus
+Pinus taeda		Dicksonia antarctica
+Pinus tabuliformis		Dichanthelium oligosanthes
+Pinus sylvestris		Dianthus sylvestris
+Pinus strobus		Dianthus chinensis
+Pinus radiata		Dianthus caryophyllus
+Pinus pungens		Desmanthus illinoensis
+Pinus pinaster		Derris elliptica
+Pinus nigra		Dendrocnide moroides
+Pinus merkusii		Dendrobium officinale
+Pinus longaeva		Dendrobium moniliforme
+Pinus halepensis		Daucus carota
+Pinus flexilis		Datura stramonium
+Pinus fenzeliana		Datura metel
+Pinus densiflora		Dasiphora fruticosa
+Pinus banksiana		Daphniphyllum oldhamii
+Pinellia ternata		Daphne giraldii
+Pimpinella candolleana		Daphne genkwa
+Pimpinella anisum		Dalea mollis
+Pimenta dioica		Dalbergia odorifera
+Pilosella officinarum		Dahlia pinnata
+Piliostigma malabaricum		Dactylis glomerata
+Pilea plataniflora		Cystopteris protrusa
+Picris hieracioides		Cyperus rotundus
+Picrasma quassioides		Cyperus papyrus
+Picramnia latifolia		Cyperus esculentus
+Picea pungens		Cyperus alternifolius
+Picea mariana		Cynomorium songaricum
+Picea glauca		Cynoglossum officinale
+Picea engelmannii		Cynara cardunculus
+Picea abies		Cynanchum wilfordii
+Phytolacca americana		Cymbopogon citratus
+Phytolacca acinosa		Cydonia oblonga
+Physalis peruviana		Cyclocarya paliurus
+Physalis angulata		Cycas siamensis
+Phyllostylon rhamnoides		Cycas circinalis
+Phyllostachys nigra		Cuscuta chinensis
+Phyllolobium chinense		Curcuma longa
+Phyllanthus pulcher		Curcuma alismatifolia
+Phyllanthus niruri		Curculigo orchioides
+Phyllanthus brasiliensis		Cupressus sempervirens
+Phyllanthus acidus		Cupressus duclouxiana
+Phyla scaberrima		Cunonia capensis
+Phyla dulcis		Cullen corylifolium
+Phtheirospermum japonicum		Cucurbita pepo
+Phragmites australis		Cucurbita moschata
+Photinia glabra		Cucurbita melopepo
+Phormium tenax		Cucurbita maxima
+Phoenix roebelenii		Cucurbita argyrosperma
+Phoenix dactylifera		Cucumis sativus
+Phoenix canariensis		Cucumis melo
+Phoebe tavoyana		Cryptomeria japonica
+Phlox paniculata		Crocus sativus
+Phlox drummondii		Crepis biennis
+Phlox adsurgens		Cremastra appendiculata
+Phlomis fruticosa		Crataegus pinnatifida
+Phleum pratense		Crataegus laevigata
+Philodendron verrucosum		Crambe hispanica
+Phillyrea media		Cotinus coggygria
+Phillyrea latifolia		Cota tinctoria
+Phellodendron amurense		Costus spicatus
+Phedimus takesimensis		Cosmos bipinnatus
+Phedimus spurius		Coscinium fenestratum
+Phaseolus vulgaris		Corymbia citriodora
+Phaseolus lunatus		Corylus cornuta
+Phaseolus coccineus		Corylus avellana
+Phanera ornata		Corylus americana
+Phanera aureifolia		Corydalis yanhusuo
+Phalaris canariensis		Corokia cotoneaster
+Phacelia campanularia		Cornus officinalis
+Peumus boldus		Cornus florida
+Peucedanum ostruthium		Cornus alternifolia
+Peucedanum japonicum		Coriandrum sativum
+Petunia x hybrida		Coreopsis tinctoria
+Petunia exserta		Coreopsis lanceolata
+Petunia axillaris		Corchorus olitorius
+Petroselinum crispum		Corchorus capsularis
+Petrosedum forsterianum		Coptis omeiensis
+Petersianthus macrocarpus		Copaifera langsdorffii
+Petasites hybridus		Convallaria majalis
+Persicaria tenella		Conioselinum officinale
+Persicaria orientalis		Combretum indicum
+Persicaria chinensis		Colocasia esculenta
+Persea subcordata		Coleus amboinicus
+Persea sphaerocarpa		Coix lacryma-jobi
+Persea areolatocostae		Coffea canephora
+Persea americana		Coffea arabica
+Perilla frutescens		Codonopsis pilosula
+Pereskia grandifolia		Codonopsis lanceolata
+Perebea guianensis		Cocos nucifera
+Peracarpa carnosa		Cocculus trilobus
+Peperomia pellucida		Coccinia grandis
+Peperomia obtusifolia		Clusia rosea
+Pentanema britannica		Clivia miniata
+Penstemon hirsutus		Clitoria ternatea
+Penstemon hartwegii		Clerodendrum chinense
+Penstemon eatonii		Clematis vitalba
+Penstemon davidsonii		Clematis brevicaudata
+Penstemon calycosus		Clematis apiifolia
+Pelargonium graveolens		Clematis alpina
+Peixotoa tomentosa		Cladrastis kentukea
+Peixotoa reticulata		Citrus x limon
+Peixotoa hispidula		Citrus x aurantium
+Peixotoa glabra		Citrus x aurantiifolia
+Peixotoa cordistipula		Citrus unshiu
+Peganum harmala		Citrus trifoliata
+Pediomelum aromaticum		Citrus sinensis
+Pedicularis henryi		Citrus reticulata
+Payena leerii		Citrus limonia
+Pavetta indica		Citrus japonica
+Paulownia tomentosa		Citrus hystrix
+Paulownia fortunei		Citrus cavaleriei
+Paullinia cupana		Citrus bergamia
+Patrinia scabiosifolia		Citrullus lanatus
+Pastinaca sativa		Citrullus colocynthis
+Passiflora yucatanensis		Cistanthe grandiflora
+Passiflora vitifolia		Cistanche deserticola
+Passiflora tenuiloba		Cissus rotundifolia
+Passiflora talamancensis		Cirsium arvense
+Passiflora suberosa		Cinnamomum verum
+Passiflora speciosa		Cinnamomum camphora
+Passiflora quadriglandulosa		Cinnamomum burmanni
+Passiflora quadrangularis		Cinnamomum aromaticum
+Passiflora pittieri		Cinchona calisaya
+Passiflora oerstedii		Cichorium intybus
+Passiflora nitida		Cichorium endivia
+Passiflora nephrodes		Cicer arietinum
+Passiflora mexicana		Cibotium barometz
+Passiflora menispermifolia		Chrysopogon zizanioides
+Passiflora lutea		Chrysanthemum x morifolium
+Passiflora lobata		Chrysanthemum indicum
+Passiflora incarnata		Chromolaena odorata
+Passiflora hastifolia		Chlorogalum pomeridianum
+Passiflora foetida		Chenopodium quinoa
+Passiflora filipes		Chelidonium majus
+Passiflora edulis		Chamaenerion angustifolium
+Passiflora costaricensis		Chamaemelum nobile
+Passiflora coriacea		Cercocarpus ledifolius
+Passiflora caerulea		Cercis canadensis
+Passiflora bryonioides		Cercidiphyllum japonicum
+Passiflora biflora		Ceratozamia mexicana
+Passiflora auriculata		Ceratophyllum demersum
+Passiflora arbelaezii		Ceratonia siliqua
+Passiflora ambigua		Cerastium alpinum
+Passiflora affinis		Cephalotaxus harringtonia
+Passiflora adenopoda		Centella asiatica
+Paspalum vaginatum		Centaurea montana
+Paspalum scrobiculatum		Centaurea jacea
+Paspalum notatum		Centaurea cyanus
+Parryella filifolia		Cenchrus americanus
+Paronychia argentea		Celtis occidentalis
+Parochetus communis		Celosia argentea
+Parnassia palustris		Celastrus orbiculatus
+Parmentiera aculeata		Ceanothus americanus
+Parkia pendula		Catharanthus roseus
+Parkia nitida		Catharanthus ovalis
+Paris verticillata		Catha edulis
+Parinari occidentalis		Casuarina equisetifolia
+Parietaria officinalis		Castanea mollissima
+Parietaria judaica		Castanea dentata
+Parameria laevigata		Castanea crenata
+Paralychnophora reflexoauriculata		Casearia arborea
+Paralychnophora harleyi		Carya illinoinensis
+Paralychnophora bicolor		Carya glabra
+Paralychnophora atkinsiae		Carum carvi
+Paraboea rufescens		Carthamus tinctorius
+Papaver somniferum		Carpinus betulus
+Papaver rhoeas		Carica papaya
+Papaver nudicaule		Cardamine pratensis
+Papaver bracteatum		Carapichea ipecacuanha
+Papaver atlanticum		Carallia brachiata
+Papaver armeniacum		Capsicum frutescens
+Panicum virgatum		Capsicum chinense
+Panicum miliaceum		Capsicum baccatum
+Panicum hallii		Capsicum annuum
+Pandanus odoratissimus		Capparis spinosa
+Pandanus amaryllifolius		Cannabis sativa
+Pancovia laurentii		Canna indica
+Panax notoginseng		Canella winterana
+Panax ginseng		Canarium album
+Palicourea pubescens		Campsis grandiflora
+Palicourea deflexa		Camellia sinensis
+Palicourea cyanococca		Camellia japonica
+Palicourea colorata		Camelina sativa
+Palicourea brachiata		Calycanthus floridus
+Palicourea acuminata		Calycanthus chinensis x Calycanthus floridus
+Palaquium annamense		Calophyllum longifolium
+Paeonia suffruticosa		Calophyllum inophyllum
+Paeonia lactiflora		Calophyllum brasiliense
+Paeonia delavayi		Calluna vulgaris
+Paeonia anomala		Callistephus chinensis
+Pachystachys spicata		Callicarpa bodinieri
+Pachystachys lutea		Callicarpa americana
+Pachyrhizus erosus		Calendula officinalis
+Pachypodium succulentum		Cajanus cajan
+Pachypodium horombense		Byrsonima spicata
+Pachira insignis		Buxus sempervirens
+Pachira aquatica		Buphthalmum salicifolium
+Oxyspora paniculata		Buglossoides arvensis
+Oxandra espintana		Buddleja officinalis
+Oxalis triangularis		Bryonia cretica
+Ouratea lucens		Brunfelsia grandiflora
+Ottochloa nodosa		Bruguiera cylindrica
+Ottelia alismoides		Brugmansia suaveolens
+Ostrya virginiana		Brucea javanica
+Ostericum grosseserratum		Browallia americana
+Osmanthus yunnanensis		Broussonetia papyrifera
+Osmanthus fragrans		Brosimum alicastrum
+Oryza sativa		Brassica rapa
+Oryza longistaminata		Brassica oleracea
+Oryza glaberrima		Brassica nigra
+Oryza barthii		Brassica napus
+Orostachys japonica		Brassica juncea
+Orobanche hederae		Brassica cretica
+Orobanche coerulescens		Brassica carinata
+Ornithogalum saundersiae		Brachythecium rutabulum
+Ormosia henryi		Brachypodium distachyon
+Origanum vulgare		Bouteloua gracilis
+Origanum syriacum		Bougainvillea spectabilis
+Origanum scabrum		Boswellia sacra
+Origanum majorana		Borassus flabellifer
+Oreoherzogia fallax		Borago officinalis
+Orchidantha maxillarioides		Bombax ceiba
+Opuntia streptacantha		Boehmeria nivea
+Opuntia ficus-indica		Bletilla striata
+Opuntia engelmannii		Bixa orellana
+Operculicarya pachypus		Bistorta officinalis
+Operculicarya decaryi		Bischofia javanica
+Onopordum acanthium		Bidens tripartita
+Ononis spinosa		Bidens pilosa
+Onoclea sensibilis		Betula pubescens
+Onobrychis viciifolia		Betula platyphylla
+Olea europaea		Betula pendula
+Olax imbricata		Betula papyrifera
+Oenothera speciosa		Betula alleghaniensis
+Oenothera macrocarpa		Betonica officinalis
+Oenothera lamarckiana		Beta vulgaris
+Oenothera biennis		Bertholletia excelsa
+Oenocarpus mapora		Berberis thunbergii
+Ocotea whitei		Berberis aquifolium
+Ocotea purpurea		Benincasa hispida
+Ocotea puberula		Bellis perennis
+Ocotea oblonga		Beilschmiedia pendula
+Ocotea floribunda		Bauhinia variegata
+Ocotea cernua		Bauhinia tomentosa
+Ocotea aciphylla		Bauhinia purpurea
+Ocimum tenuiflorum		Bauhinia forficata
+Ocimum basilicum		Bassia scoparia
+Ochrosia elliptica		Basella alba
+Ochna multiflora		Ballota nigra
+Ochna integerrima		Azadirachta indica
+Nyssa sylvatica		Avicennia officinalis
+Nyssa sinensis		Averrhoa carambola
+Nymphaea nouchali		Avenula pubescens
+Nymphaea lotus		Avena sativa
+Nymphaea alba		Avena nuda
+Nuphar japonica		Avena barbata
+Nothofagus obliqua		Aucuba japonica
+Nordenstamia repanda		Atropa belladonna
+Nigella damascena		Atriplex hortensis
+Niedenzuella stannea		Atractylodes macrocephala
+Niedenzuella sericea		Atractylodes lancea
+Niedenzuella poeppigiana		Astragalus sinicus
+Niedenzuella multiglandulosa		Astragalus propinquus
+Niedenzuella acutifolia		Astragalus membranaceus
+Nicotiana tomentosiformis		Astragalus glycyphyllos
+Nicotiana tabacum		Astragalus canadensis
+Nicotiana sylvestris		Aster tataricus
+Nicotiana rustica		Asplenium platyneuron
+Nicotiana occidentalis		Asparagus officinalis
+Nicotiana megalosiphon		Asparagus cochinchinensis
+Nicotiana glauca		Asclepias curassavica
+Nicotiana benthamiana		Asarum heterotropoides
+Nicotiana attenuata		Aruncus dioicus
+Nicotiana alata		Artocarpus nitidus
+Nicandra physalodes		Artocarpus heterophyllus
+Neustanthus phaseoloides		Artocarpus altilis
+Nerium oleander		Artemisia scoparia
+Neptunia lutea		Artemisia ludoviciana
+Nephrolepis exaltata		Artemisia capillaris
+Nephrolepis biserrata		Artemisia argyi
+Nephroia orbiculata		Artemisia annua
+Nepeta x faassenii		Artemisia absinthium
+Nepeta grandiflora		Arrhenatherum elatius
+Nepeta cataria		Aronia melanocarpa
+Nepenthes x hookeriana		Arnica montana
+Nepenthes ventricosa x Nepenthes alata		Armoracia rusticana
+Nepenthes rafflesiana		Aristolochia tagala
+Nepenthes ampullaria		Aristolochia fimbriata
+Neoregelia carolinae		Aristolochia californica
+Neolitsea sericea		Arisaema heterophyllum
+Neocinnamomum delavayi		Arisaema franchetianum
+Neoblechnum brasiliense		Argentina anserina
+Neobeguea mahafalensis		Argemone mexicana
+Nemophila menziesii		Areca catechu
+Nelumbo nucifera		Ardisia crenata
+Neltuma laevigata		Arctium lappa
+Neea hermaphrodita		Arbutus unedo
+Nectandra laurel		Arachis stenosperma
+Nectandra cissiflora		Arachis ipaensis
+Nectandra acutifolia		Arachis hypogaea
+Nauclea orientalis		Arabis hirsuta
+Nauclea officinalis		Arabis alpina
+Narthecium californicum		Arabidopsis thaliana
+Nardostachys jatamansi		Arabidopsis lyrata
+Nandina domestica		Aquilegia vulgaris
+Myrtus communis		Aquilegia coerulea
+Myrsine semiserrata		Aquilaria agallochum
+Myrsine coriacea		Apium graveolens
+Myroxylon peruiferum		Apios americana
+Myrocarpus venezuelensis		Aphanamixis polystachya
+Myristica fragrans		Antigonon leptopus
+Myrcia sylvatica		Anthyllis vulneraria
+Myrcia multiflora		Anthurium andraeanum
+Myrcia fallax		Anthriscus sylvestris
+Myrcia bracteata		Anthoxanthum odoratum
+Myracrodruon urundeuva		Annona muricata
+Myosoton aquaticum		Annona cherimola
+Myoporum tetrandrum		Angelica gigas
+Myoporum sandwicense		Angelica dahurica
+Myoporum platycarpum		Angelica archangelica
+Myoporum parvifolium		Anethum foeniculum
+Myoporum montanum		Anemarrhena asphodeloides
+Myoporum insulare		Andrographis paniculata
+Myoporum caprarioides		Anchusa officinalis
+Myoporum brevipes		Anchusa capensis
+Myoporum boninense		Ananas comosus
+Myoporum betcheanum		Anacardium occidentale
+Myoporum bateae		Amorphophallus paeoniifolius
+Myoporum acuminatum		Amorphophallus konjac
+Mutarda arvensis		Amorphophallus bulbifer
+Mussaenda rehderiana		Amorpha fruticosa
+Mussaenda cambodiana		Amelanchier canadensis
+Musanga cecropioides		Amelanchier alnifolia
+Musa velutina		Amburana cearensis
+Musa basjoo		Ambrosia artemisiifolia
+Musa acuminata		Amaranthus tuberculatus
+Murraya koenigii		Amaranthus tricolor
+Mucuna pruriens		Amaranthus retroflexus
+Mouriri myrtilloides		Amaranthus hypochondriacus
+Moullava digyna		Amaranthus hybridus
+Mostuea brunonis		Amaranthus cruentus
+Morus rubra		Althaea officinalis
+Morus nigra		Alternanthera bettzickiana
+Morus alba		Alpinia oxyphylla
+Moringa oleifera		Alpinia officinarum
+Moringa hildebrandtii		Aloe vera
+Moringa drouhardii		Alnus glutinosa
+Morinda citrifolia		Alluaudia procera
+Morina longifolia		Allium ursinum
+Morella pensylvanica		Allium tuberosum
+Monteverdia ilicifolia		Allium schoenoprasum
+Monteverdia floribunda		Allium sativum
+Monstera deliciosa		Allium cepa
+Monarda russeliana		Allium ampeloprasum
+Monarda punctata		Allionia incarnata
+Monarda fistulosa		Alliaria petiolata
+Monarda citriodora		Alisma plantago-aquatica
+Monarda bradburiana		Alchemilla mollis
+Momordica cochinchinensis		Alchemilla alpina
+Momordica charantia		Alcea rosea
+Mollinedia ovata		Albizia julibrissin
+Mitragyna speciosa		Akebia quinata
+Mitragyna diversifolia		Ailanthus altissimus
+Mischocarpus pentapetalus		Agrostemma githago
+Miscanthus floridulus		Agrimonia pilosa
+Mirabilis jalapa		Aglaonema commutatum
+Minasia scapigera		Aglaomorpha fortunei
+Minasia alpestris		Aglaomorpha bonii
+Mimosa pudica		Ageratum conyzoides
+Millettia congestiflora		Agave tequilana
+Mikania glomerata		Agave sisalana
+Mikania cordifolia		Agave bracteosa
+Microsorum musifolium		Agastache rugosa
+Micromelum hirsutum		Agapanthus praecox
+Microgramma lycopodioides		Aegopodium podagraria
+Microcos tomentosa		Aegle marmelos
+Miconia trichocalyx		Aegilops speltoides
+Miconia theaezans		Adenophora triphylla
+Miconia splendens		Adansonia digitata
+Miconia quadrialata		Actinidia deliciosa
+Miconia punctata		Actinidia chinensis
+Miconia prasina		Actaea racemosa
+Miconia poeppigii		Acorus gramineus
+Miconia octona		Acorus calamus
+Miconia nervosa		Aconitum kusnezoffii
+Miconia multispicata		Aconitum carmichaelii
+Miconia incachacana		Achyranthes bidentata
+Miconia impetiolaris		Achillea ptarmica
+Miconia hondurensis		Achillea millefolium
+Miconia hispidula		Achillea asiatica
+Miconia elata		Acer wilsonii
+Miconia dorsiloba		Acer saccharum
+Miconia dolichorrhyncha		Acer rubrum
+Miconia dentata		Acer platanoides
+Miconia crenata		Acer pictum
+Miconia chrysophylla		Acer negundo
+Miconia centrodesma		Acer fabri
+Miconia boliviensis		Acer campestre
+Miconia biacuta		Acanthus mollis
+Miconia bangii		Acanthus ilicifolius
+Miconia aureoides		Acacia crassicarpa
+Miconia argentea		Abies lasiocarpa
+Miconia amnicola		Abies alba
+Miconia albicans		Abelmoschus manihot
+Miconia affinis		Abelmoschus esculentus
+Metasequoia glyptostroboides		
+Mespilodaphne cymbarum		
+Mesembryanthemum cordifolium		
+Mercurialis perennis		
+Mercurialis annua		
+Menyanthes trifoliata		
+Mentha suaveolens		
+Mentha spicata		
+Mentha canadensis		
+Mentha arvensis		
+Mentha aquatica		
+Melothria scabra		
+Melodinus cochinchinensis		
+Melochia umbellata		
+Melissa officinalis		
+Meliosma solomonii		
+Melilotus officinalis		
+Melilotus albus		
+Melicope pteleifolia		
+Melia azedarach		
+Melastoma saigonense		
+Melaleuca leucadendra		
+Melaleuca alternifolia		
+Megistostegium perrieri		
+Megistostegium nodulosum		
+Megistostegium microphyllum		
+Megathyrsus maximus		
+Medinilla magnifica		
+Medicago truncatula		
+Medicago sativa		
+Medicago lupulina		
+Mcvaughia bahiana		
+Maytenus undata		
+Maytenus guyanensis		
+Mayaca fluviatilis		
+Mauritia flexuosa		
+Matricaria chamomilla		
+Matayba arborescens		
+Maschalostachys markgrafii		
+Mascagnia sepium		
+Martynia annua		
+Marsilea quadrifolia		
+Marsdenia verrucosa		
+Marsdenia floribunda		
+Marrubium vulgare		
+Markhamia stipulata		
+Marila laxiflora		
+Margaritaria nobilis		
+Marchantia polymorpha		
+Maranta leuconeura		
+Maranta arundinacea		
+Maquira guianensis		
+Mannia fragrans		
+Manilkara zapota		
+Manihot esculenta		
+Mangifera pentandra		
+Mangifera indica		
+Mangifera duperreana		
+Mammea americana		
+Malvaviscus arboreus		
+Malva verticillata		
+Malva sylvestris		
+Malva neglecta		
+Malus sylvestris		
+Malus sieversii		
+Malus pumila		
+Malus niedzwetzkyana		
+Malus floribunda		
+Malus domestica		
+Malpighia mexicana		
+Mallotus paniculatus		
+Mallotus oppositifolius		
+Mallotus nudiflorus		
+Malania oleifera		
+Maianthemum dilatatum		
+Magnolia virginiana		
+Magnolia officinalis		
+Magnolia obovata		
+Magnolia kobus		
+Magnolia grandiflora		
+Magnolia denudata		
+Magnolia delavayi		
+Macrosolen cochinchinensis		
+Maclura tricuspidata		
+Maclura cochinchinensis		
+Macleaya microcarpa		
+Macleaya cordata		
+Machaerium nyctitans		
+Machaerium hirtum		
+Macadamia jansenii		
+Macadamia integrifolia		
+Lythrum salicaria		
+Lysimachia foenum-graecum		
+Lysimachia christinae		
+Lygodium salicifolium		
+Lygodium palmatum		
+Lygodium japonicum		
+Lycopus lucidus		
+Lycopodium clavatum		
+Lycium chinense		
+Lycium barbarum		
+Lychnophorella triflora		
+Lychnophorella santosii		
+Lychnophorella regis		
+Lychnophorella bishopii		
+Lychnophora villosissima		
+Lychnophora uniflora		
+Lychnophora tomentosa		
+Lychnophora sp. BL-2014b		
+Lychnophora souzae		
+Lychnophora salicifolia		
+Lychnophora pinaster		
+Lychnophora passerina		
+Lychnophora hatschbachii		
+Lychnophora granmogolensis		
+Lychnophora gardneri		
+Lychnophora ericoides		
+Lychnophora diamantinana		
+Lychnophora damazioi		
+Lychnophora crispa		
+Lychnophora candelabrum		
+Lychnophora brunioides		
+Lychnocephalus sellowii		
+Lupinus luteus		
+Lupinus albus		
+Lunaria annua		
+Luffa operculata		
+Luffa aegyptiaca		
+Luffa acutangula		
+Luehea seemannii		
+Ludwigia decurrens		
+Ludwigia adscendens		
+Lovoa trichilioides		
+Lotus tetragonolobus		
+Lotus maritimus		
+Lotus corniculatus		
+Loropetalum chinense		
+Lophatherum gracile		
+Lonicera xylosteum		
+Lonicera tatarica		
+Lonicera maackii		
+Lonicera ligustrina		
+Lonicera japonica		
+Lolium rigidum		
+Lolium perenne		
+Lolium multiflorum		
+Loeseneriella urceolus		
+Loeseneriella concinna		
+Lobularia maritima		
+Lobelia siphilitica		
+Lobelia seguinii		
+Lobelia chinensis		
+Lobelia cardinalis		
+Litsea monopetala		
+Lithospermum erythrorhizon		
+Lithospermum caroliniense		
+Lithocarpus litseifolius		
+Lithocarpus elegans		
+Litchi chinensis		
+Liriope muscari		
+Liriodendron tulipifera		
+Liquidambar styraciflua		
+Liquidambar formosana		
+Lippia graveolens		
+Lippia alba		
+Linum usitatissimum		
+Linum trigynum		
+Linum perenne		
+Linum grandiflorum		
+Linum flavum		
+Lindera obtusiloba		
+Lindera benzoin		
+Lindera aggregata		
+Lindenbergia philippensis		
+Linaria vulgaris		
+Linaria buriatica		
+Limonia acidissima		
+Limnanthes douglasii		
+Lilium lancifolium		
+Lilium hansonii		
+Lilium brownii		
+Ligustrum vulgare		
+Ligustrum lucidum		
+Licuala grandis		
+Libidibia ferrea		
+Liatris spicata		
+Levisticum officinale		
+Leuzea uniflora		
+Leuzea rhapontica		
+Leuzea cynaroides		
+Leuzea centauroides		
+Leucophyllum zygophyllum		
+Leucophyllum frutescens		
+Leucanthemum vulgare		
+Leucaena leucocephala		
+Lespedeza hirta		
+Lespedeza capitata		
+Leptochilus decurrens		
+Leptadenia reticulata		
+Lepisorus thunbergianus		
+Lepisorus fortuni		
+Lepisanthes tetraphylla		
+Lepidoceras chilense		
+Lepidium sativum		
+Lepidium meyenii		
+Lepidium apetalum		
+Leonurus cardiaca		
+Leontopodium nivale		
+Leontodon hispidus		
+Leonotis nepetifolia		
+Lens culinaris		
+Leersia hexandra		
+Lavandula lanata		
+Lavandula dentata		
+Lavandula angustifolia		
+Laurus nobilis		
+Lathyrus vernus		
+Lathyrus sativus		
+Lathyrus pratensis		
+Lathyrus oleraceus		
+Lathyrus latifolius		
+Larix laricina		
+Larix decidua		
+Lapsana communis		
+Laportea oligoloba		
+Laportea interrupta		
+Lapageria rosea		
+Lanxangia tsao-ko		
+Lannea coromandelica		
+Lamium purpureum		
+Lamium album		
+Laggera pterodonta		
+Lagenaria siceraria		
+Ladenbergia oblongifolia		
+Ladenbergia carua		
+Lactuca virosa		
+Lactuca sativa		
+Lactuca saligna		
+Lactuca perennis		
+Lacistema aggregatum		
+Lachesiodendron viridiflorum		
+Laburnum anagyroides		
+Lablab purpureus		
+Kummerowia striata		
+Krugiodendron ferreum		
+Krascheninnikovia lanata		
+Knema globularia		
+Knautia arvensis		
+Kitagawia praeruptora		
+Kirganelia castica		
+Kielmeyera paniculata		
+Khaya senegalensis		
+Kerria japonica		
+Karwinskia calderonii		
+Kalopanax septemlobus		
+Kalmia latifolia		
+Kalanchoe linearifolia		
+Kalanchoe delagoensis		
+Kalanchoe arborescens		
+Kadsura interior		
+Kadsura coccinea		
+Justicia spicigera		
+Justicia calycina		
+Jupunba trapezifolia		
+Juniperus virginiana		
+Juniperus thurifera		
+Juniperus scopulorum		
+Juniperus sabina		
+Juniperus oxycedrus		
+Juniperus horizontalis		
+Juniperus communis		
+Juncus effusus		
+Juncus decipiens		
+Juglans sigillata		
+Juglans regia		
+Juglans nigra		
+Juglans cinerea		
+Juglans cathayensis		
+Juglans boliviana		
+Jeffersonia diphylla		
+Jatropha podagrica		
+Jatropha multifida		
+Jasminum sambac		
+Jasminum polyanthum		
+Jasminum nervosum		
+Janusia schwannioides		
+Janusia mediterranea		
+Janusia janusioides		
+Jacobaea vulgaris		
+Jacaranda mimosifolia		
+Jacaranda copaia		
+Ixiolirion tataricum		
+Ixeris chinensis		
+Itea japonica		
+Isoetes lacustris		
+Isodon ternifolius		
+Isodon japonicus		
+Isertia coccinea		
+Ischnosiphon inflatus		
+Isatis tinctoria		
+Irvingia malayana		
+Iris tenuifolia		
+Iris sibirica		
+Iris pseudacorus		
+Iris pallida		
+Iris lactea		
+Iris germanica		
+Iris domestica		
+Ipomoea triloba		
+Ipomoea tricolor		
+Ipomoea quamoclit		
+Ipomoea purpurea		
+Ipomoea nil		
+Ipomoea lobata		
+Ipomoea batatas		
+Ipomoea asarifolia		
+Inula japonica		
+Inula helenium		
+Inula conyza		
+Inga vera		
+Inga umbellifera		
+Inga thibaudiana		
+Inga striata		
+Inga spectabilis		
+Inga sapindoides		
+Inga ruiziana		
+Inga punctata		
+Inga pezizifera		
+Inga oerstediana		
+Inga obidensis		
+Inga nobilis		
+Inga multinervis		
+Inga multijuga		
+Inga mucuna		
+Inga microcoma		
+Inga marginata		
+Inga leiocalycina		
+Inga laurina		
+Inga heterophylla		
+Inga goldmanii		
+Inga edulis		
+Inga cylindrica		
+Inga coruscans		
+Inga cocleensis		
+Inga chartacea		
+Inga capitata		
+Inga brachystachys		
+Inga auristellae		
+Inga alba		
+Inga alata		
+Inga acuminata		
+Inga acreana		
+Indocypraea montana		
+Indigofera tinctoria		
+Indigofera suffruticosa		
+Indigofera atriceps		
+Indigofera amblyantha		
+Imperata cylindrica		
+Impatiens balsamina		
+Impatiens auricoma		
+Illicium verum		
+Illicium micranthum		
+Ilex verticillata		
+Ilex szechwanensis		
+Ilex paraguariensis		
+Ilex opaca		
+Ilex macrocarpa		
+Ilex corallina		
+Ilex aquifolium		
+Ichnocarpus frutescens		
+Hyptis crenata		
+Hyptis capitata		
+Hyptis brevipes		
+Hyptis brachiata		
+Hyptidendron arboreum		
+Hypochaeris radicata		
+Hypnum cupressiforme		
+Hypericum triquetrifolium		
+Hypericum perforatum		
+Hypericum patulum		
+Hypericum olympicum		
+Hypericum montanum		
+Hypericum kalmianum		
+Hypericum hookerianum		
+Hypericum hirsutum		
+Hyoscyamus niger		
+Hymenopyramis brachiata		
+Hymenodictyon flaccidum		
+Hymenocardia punctata		
+Hymenocallis littoralis		
+Hymenaea oblongifolia		
+Hymenaea courbaril		
+Hylotelephium telephium		
+Hylotelephium erythrostictum		
+Hylodesmum glutinosum		
+Hydrocotyle umbellata		
+Hydrocharis dubia		
+Hydrangea robusta		
+Hydrangea quercifolia		
+Hydrangea macrophylla		
+Hydrangea anomala		
+Hydnophytum simplex		
+Hydnophytum formicarum		
+Hydnocarpus castaneus		
+Hyacinthoides non-scripta		
+Hura crepitans		
+Huperzia serrata		
+Humulus scandens		
+Humulus lupulus		
+Hultholia mimosoides		
+Huernia zebrina		
+Hovenia dulcis		
+Hovenia acerba		
+Houttuynia cordata		
+Hordeum vulgare		
+Hopea pierrei		
+Hopea helferi		
+Hopea chinensis		
+Homonoia riparia		
+Homalomena aromatica		
+Homalolepis cedron		
+Holoptelea integrifolia		
+Hololepis pedunculata		
+Holodiscus discolor		
+Holocalyx balansae		
+Holmskioldia sanguinea		
+Holcus lanatus		
+Holarrhena pubescens		
+Holarrhena curtisii		
+Hoffmannseggia drepanocarpa		
+Hodgsonia macrocarpa		
+Hirtella triandra		
+Hiraea reclinata		
+Hiptage benghalensis		
+Hippophae rhamnoides		
+Hippocrepis comosa		
+Hildaea pallens		
+Hieronyma alchorneoides		
+Hieracium murorum		
+Hibiscus syriacus		
+Hibiscus sabdariffa		
+Hibiscus ferrugineus		
+Hibiscus cannabinus		
+Hevea guianensis		
+Heuchera sanguinea		
+Heteropterys pauciflora		
+Heteropterys leschenaultiana		
+Heteropterys leona		
+Heteropterys laurifolia		
+Heteropterys chrysophylla		
+Heteropterys byrsonimifolia		
+Heteropterys brachiata		
+Heteropterys bicolor		
+Heterocoma lanuginosa		
+Heterocoma gracilis		
+Heteranthera zosterifolia		
+Hesperomeles ferruginea		
+Hesperis matronalis		
+Heracleum sphondylium		
+Heptapleurum leucanthum		
+Heptapleurum delavayi		
+Heptapleurum arboricola		
+Hepatica nobilis		
+Hepatica maxima		
+Hemerocallis minor		
+Hemerocallis fulva		
+Hemerocallis citrina		
+Hemarthria compressa		
+Helwingia omeiensis		
+Hellenia speciosa		
+Helleborus orientalis		
+Helleborus niger		
+Helleborus foetidus		
+Helleborus argutifolius		
+Heliotropium verdcourtii		
+Heliotropium arborescens		
+Helicteres lanceolata		
+Helicteres isora		
+Helicteres hirsuta		
+Helicteres angustifolia		
+Helicostylis tovarensis		
+Helicostylis tomentosa		
+Heliconia wagneriana		
+Heliconia umbrophila		
+Heliconia psittacorum		
+Heliconia pogonantha		
+Heliconia mathiasiae		
+Heliconia latispatha		
+Heliconia irrasa		
+Heliconia imbricata		
+Helichrysum serotinum		
+Helianthus tuberosus		
+Helianthus radula		
+Helianthus annuus		
+Helianthemum nummularium		
+Helenium autumnale		
+Heladena multiflora		
+Heisteria concinna		
+Hedyosmum scabrum		
+Hedyosmum racemosum		
+Hedyosmum lechleri		
+Hedyosmum cuatrecazanum		
+Hedychium gardnerianum		
+Hedychium coronarium		
+Hedera helix		
+Hedera canariensis		
+Hechtia texensis		
+Haworthiopsis reinwardtii		
+Haworthia cooperi		
+Harungana madagascariensis		
+Harpagophytum procumbens		
+Handroanthus serratifolius		
+Handroanthus impetiginosus		
+Handroanthus guayacan		
+Handroanthus chrysanthus		
+Hamamelis virginiana		
+Hamamelis vernalis		
+Halopegia blumei		
+Halodule wrightii		
+Halleria tetragona		
+Haldina cordifolia		
+Haematoxylum campechianum		
+Gypsophila vaccaria		
+Gynoxys mandonii		
+Gynostemma pubescens		
+Gynostemma pentaphyllum		
+Gynochthodes officinalis		
+Gynandropsis gynandra		
+Gymnotheca chinensis		
+Gymnosporia graciliramula		
+Gymnosporia buxifolia		
+Gymnocladus dioicus		
+Gymnanthemum amygdalinum		
+Gunnera manicata		
+Guilandina bonduc		
+Guatteria punctata		
+Guatteria dumetorum		
+Guarea macrophylla		
+Guarea kunthiana		
+Guarea guidonia		
+Guarea grandifolia		
+Guarea bullata		
+Guapira opposita		
+Guaiacum officinale		
+Grona heterophylla		
+Griselinia littoralis		
+Grimmia pulvinata		
+Grevillea robusta		
+Graffenrieda limbata		
+Graffenrieda emarginata		
+Gouania polygama		
+Gouania leptostachya		
+Gouania javanica		
+Gossypium trilobum		
+Gossypium tomentosum		
+Gossypium stocksii		
+Gossypium raimondii		
+Gossypium mustelinum		
+Gossypium lobatum		
+Gossypium klotzschianum		
+Gossypium hirsutum		
+Gossypium herbaceum		
+Gossypium gossypioides		
+Gossypium davidsonii		
+Gossypium darwinii		
+Gossypium barbadense		
+Gossypium australe		
+Gossypium armourianum		
+Gossypium aridum		
+Gossypium arboreum		
+Gossypium anomalum		
+Gordonia fruticosa		
+Gonocaryum lobbianum		
+Goniothalamus marcanii		
+Goniothalamus gabriacianus		
+Gongronema napalense		
+Goeppertia zebrina		
+Goeppertia ornata		
+Goeppertia marantifolia		
+Goeppertia leucostachys		
+Goeppertia inocephala		
+Goeppertia hammelii		
+Goeppertia gymnocarpa		
+Goeppertia cleistantha		
+Gnetum edule		
+Gmelina arborea		
+Glycyrrhiza uralensis		
+Glycyrrhiza lepidota		
+Glycyrrhiza glabra		
+Glycyrrhiza echinata		
+Glycosmis cochinchinensis		
+Glycocystis beckeri		
+Glycine soja		
+Glycine max		
+Globularia bisnagarica		
+Globba winitii		
+Globba schomburgkii		
+Globba campsophylla		
+Glinus oppositifolius		
+Glehnia littoralis		
+Gleditsia triacanthos		
+Gleditsia sinensis		
+Gleditsia japonica		
+Glechoma longituba		
+Glechoma hederacea		
+Gladiolus italicus		
+Givotia madagascariensis		
+Ginkgo biloba		
+Gigantochloa parvifolia		
+Gigantochloa albociliata		
+Geum urbanum		
+Geum rivale		
+Geum japonicum		
+Geum chiloense		
+Getonia floribunda		
+Gerbera piloselloides		
+Geranium thunbergii		
+Geranium robertianum		
+Geranium pratense		
+Geranium nodosum		
+Geranium maculatum		
+Gentiana scabra		
+Gentiana pubigera		
+Gentiana macrophylla		
+Gentiana lutea		
+Gentiana cephalantha		
+Gentiana acaulis		
+Genlisea flexuosa		
+Genista tinctoria		
+Gelsemium sempervirens		
+Gelrebia trothae		
+Geissospermum laeve		
+Geissospermum argenteum		
+Gaultheria shallon		
+Gaultheria procumbens		
+Gaultheria cuneata		
+Gaudichaudia albida		
+Gastrodia elata		
+Gasteria liliputana		
+Gardenia obtusifolia		
+Gardenia jasminoides		
+Garcinia vilersiana		
+Garcinia verrucosa		
+Garcinia tinctoria		
+Garcinia pauciflora		
+Garcinia multiflora		
+Garcinia mangostana		
+Garcinia madruno		
+Garcinia macrophylla		
+Garcinia lanessanii		
+Garcinia intermedia		
+Garcinia hanburyi		
+Garcinia chapelieri		
+Gambeya subnuda		
+Galphimia brasiliensis		
+Gallesia integrifolia		
+Galium verum		
+Galium odoratum		
+Galium mollugo		
+Galium asperifolium		
+Galega officinalis		
+Fusaea longifolia		
+Furcraea foetida		
+Fumaria officinalis		
+Fuchsia procumbens		
+Fritillaria thunbergii		
+Fritillaria cirrhosa		
+Fridericia chica		
+Freziera dudleyi		
+Fraxinus retusa		
+Fraxinus pennsylvanica		
+Fraxinus nigra		
+Fraxinus excelsior		
+Fraxinus chinensis		
+Fraxinus angustifolia		
+Fraxinus americana		
+Frangula oreodendron		
+Frangula longipes		
+Frangula caroliniana		
+Frangula alnus		
+Francoa appendiculata		
+Fragaria x ananassa		
+Fragaria vesca		
+Fragaria orientalis		
+Fouquieria macdougalii		
+Forsythia suspensa		
+Flueggea suffruticosa		
+Fleroya stipulosa		
+Flemingia wallichii		
+Flemingia grahamiana		
+Flemingia congesta		
+Flagellaria indica		
+Flacourtia jangomas		
+Flacourtia indica		
+Fittonia albivenis		
+Fissidens taxifolius		
+Fimbristylis dichotoma		
+Filipendula vulgaris		
+Filipendula ulmaria		
+Filago vulgaris		
+Ficus tikoua		
+Ficus sycomorus		
+Ficus racemosa		
+Ficus obtusifolia		
+Ficus mucuso		
+Ficus mexicana		
+Ficus maxima		
+Ficus hirta		
+Ficus globosa		
+Ficus exasperata		
+Ficus elastica		
+Ficus citrifolia		
+Ficus carica		
+Ficus benghalensis		
+Ficus americana		
+Ficus altissima		
+Festuca rubra		
+Festuca pratensis		
+Festuca paniculata		
+Ferula communis		
+Ferula assa-foetida		
+Feroniella lucida		
+Ferdinandusa chlorantha		
+Faurea saligna		
+Fargesia robusta		
+Faramea occidentalis		
+Faramea bangii		
+Fallopia multiflora		
+Fagus sylvatica		
+Fagus grandifolia		
+Fagopyrum tataricum		
+Fagopyrum esculentum		
+Euthamia graminifolia		
+Euterpe precatoria		
+Euterpe oleracea		
+Eurycoma longifolia		
+Euptelea pleiosperma		
+Eupomatia laurina		
+Euphorbia weberbaueri		
+Euphorbia verrucosa		
+Euphorbia tirucalli		
+Euphorbia thymifolia		
+Euphorbia stenoclada		
+Euphorbia sipolisii		
+Euphorbia segetalis		
+Euphorbia prostrata		
+Euphorbia platyclada		
+Euphorbia pervilleana		
+Euphorbia peplus		
+Euphorbia pekinensis		
+Euphorbia ornithopus		
+Euphorbia ophthalmica		
+Euphorbia obesa		
+Euphorbia nicaeensis		
+Euphorbia neriifolia		
+Euphorbia myrsinites		
+Euphorbia milii		
+Euphorbia mammillaris		
+Euphorbia lathyris		
+Euphorbia lagascae		
+Euphorbia lactea		
+Euphorbia kansui		
+Euphorbia jansenvillensis		
+Euphorbia ingens		
+Euphorbia hyssopifolia		
+Euphorbia horrida		
+Euphorbia hirta		
+Euphorbia helioscopia		
+Euphorbia grandicornis		
+Euphorbia graminea		
+Euphorbia globosa		
+Euphorbia fiherenensis		
+Euphorbia discolor		
+Euphorbia dentata		
+Euphorbia dendroides		
+Euphorbia cyparissias		
+Euphorbia cylindrifolia		
+Euphorbia cotinifolia		
+Euphorbia characias		
+Euphorbia cedrorum		
+Euphorbia bubalina		
+Euphorbia biumbellata		
+Euphorbia balsamifera		
+Euphorbia amygdaloides		
+Euphorbia ammak		
+Euphorbia alluaudii		
+Euphorbia aeruginosa		
+Euphorbia acanthothamnos		
+Euphorbia abdelkuri		
+Eupatorium fortunei		
+Eupatorium cannabinum		
+Euonymus sanguineus		
+Euonymus myrianthus		
+Euonymus maackii		
+Euonymus grandiflorus		
+Euonymus frigidus		
+Euonymus fortunei		
+Euonymus dielsianus		
+Euonymus cochinchinensis		
+Euonymus bockii		
+Euonymus atropurpureus		
+Euonymus alatus		
+Euodia simplicifolia		
+Eugenia uniflora		
+Eugenia oerstediana		
+Eugenia nesiotica		
+Eugenia moraviana		
+Eugenia lambertiana		
+Eugenia galalonensis		
+Eugenia florida		
+Eugenia egensis		
+Eugenia coloradoensis		
+Eugenia brasiliensis		
+Eucommia ulmoides		
+Eucharis x grandiflora		
+Eucalyptus saligna		
+Eucalyptus robusta		
+Eucalyptus grandis		
+Eucalyptus deglupta		
+Eucalyptus camaldulensis		
+Espeletia weddellii		
+Espeletia uribei		
+Espeletia ulotricha		
+Espeletia tunjana		
+Espeletia summapacis		
+Espeletia semiglobulata		
+Espeletia schultzii		
+Espeletia schultesiana		
+Espeletia rositae		
+Espeletia roberti		
+Espeletia praefrontina		
+Espeletia pisbana		
+Espeletia pescana		
+Espeletia paipana		
+Espeletia oswaldiana		
+Espeletia occidentalis		
+Espeletia nemekenei		
+Espeletia nana		
+Espeletia murilloi		
+Espeletia lopezii		
+Espeletia killipii		
+Espeletia jaramilloi		
+Espeletia jajoensis		
+Espeletia incana		
+Espeletia grandiflora		
+Espeletia frontinoensis		
+Espeletia formosa		
+Espeletia estanislana		
+Espeletia episcopalis		
+Espeletia dugandii		
+Espeletia discoidea		
+Espeletia curialensis		
+Espeletia cuniculorum		
+Espeletia conglomerata		
+Espeletia congestiflora		
+Espeletia cleefii		
+Espeletia cayetana		
+Espeletia brassicoidea		
+Espeletia brachyaxiantha		
+Espeletia boyacensis		
+Espeletia barclayana		
+Espeletia azucarina		
+Espeletia aristeguietana		
+Espeletia ariana		
+Espeletia argentea		
+Espeletia arbelaezii		
+Espeletia annemariana		
+Eschweilera coriacea		
+Eschscholzia californica		
+Erythroxylum subrotundum		
+Erythroxylum coca		
+Erythroxylum citrifolium		
+Erythrophleum suaveolens		
+Erythrina stricta		
+Erythrina herbacea		
+Erythrina fusca		
+Erythranthe guttata		
+Erythranthe cardinalis		
+Erysimum cheiri		
+Eryngium yuccifolium		
+Eryngium planum		
+Eryngium foetidum		
+Erycibe obtusifolia		
+Eruca vesicaria		
+Eriotheca macrophylla		
+Eriophyllum lanatum		
+Eriocaulon sexangulare		
+Eriobotrya japonica		
+Erigeron canadensis		
+Erigeron breviscapus		
+Erigeron acris		
+Eremophila youngii		
+Eremophila yinnetharrensis		
+Eremophila willsii		
+Eremophila weldii		
+Eremophila warnesii		
+Eremophila viscida		
+Eremophila virens		
+Eremophila verticillata		
+Eremophila veronica		
+Eremophila undulata		
+Eremophila tietkensii		
+Eremophila tetraptera		
+Eremophila ternifolia		
+Eremophila succinea		
+Eremophila subteretifolia		
+Eremophila subfloccosa		
+Eremophila sturtii		
+Eremophila strongylophylla		
+Eremophila stenophylla		
+Eremophila spuria		
+Eremophila splendens		
+Eremophila spectabilis		
+Eremophila spathulata		
+Eremophila simulans		
+Eremophila shonae		
+Eremophila scoparia		
+Eremophila scaberula		
+Eremophila sargentii		
+Eremophila saligna		
+Eremophila rugosa		
+Eremophila rotundifolia		
+Eremophila rostrata		
+Eremophila rigida		
+Eremophila rigens		
+Eremophila rhegos		
+Eremophila retropila		
+Eremophila reticulata		
+Eremophila recurva		
+Eremophila ramiflora		
+Eremophila racemosa		
+Eremophila pustulata		
+Eremophila purpurascens		
+Eremophila punicea		
+Eremophila pungens		
+Eremophila punctata		
+Eremophila pterocarpa		
+Eremophila prostrata		
+Eremophila prolata		
+Eremophila praecox		
+Eremophila polyclada		
+Eremophila platythamnos		
+Eremophila platycalyx		
+Eremophila physocalyx		
+Eremophila phyllopoda		
+Eremophila phillipsii		
+Eremophila petrophila		
+Eremophila perglandulosa		
+Eremophila pentaptera		
+Eremophila parvifolia		
+Eremophila papillata		
+Eremophila pantonii		
+Eremophila pallida		
+Eremophila paisleyi		
+Eremophila ovata		
+Eremophila oppositifolia		
+Eremophila oldfieldii		
+Eremophila occidens		
+Eremophila obovata		
+Eremophila oblonga		
+Eremophila obliquisepala		
+Eremophila neglecta		
+Eremophila muelleriana		
+Eremophila mitchellii		
+Eremophila mirabilis		
+Eremophila miniata		
+Eremophila microtheca		
+Eremophila micrantha		
+Eremophila metallicorum		
+Eremophila margarethae		
+Eremophila malacoides		
+Eremophila maitlandii		
+Eremophila magnifica		
+Eremophila maculata		
+Eremophila macmillaniana		
+Eremophila mackinlayi		
+Eremophila macgillivrayi		
+Eremophila macdonnellii		
+Eremophila lucida		
+Eremophila longifolia		
+Eremophila linsmithii		
+Eremophila linearis		
+Eremophila lehmanniana		
+Eremophila latrobei		
+Eremophila lanceolata		
+Eremophila lachnocalyx		
+Eremophila laanii		
+Eremophila koobabbiensis		
+Eremophila jucunda		
+Eremophila ionantha		
+Eremophila interstans		
+Eremophila incisa		
+Eremophila hygrophana		
+Eremophila humilis		
+Eremophila hughesii		
+Eremophila homoplastica		
+Eremophila hillii		
+Eremophila granitica		
+Eremophila grandiflora		
+Eremophila goodwinii		
+Eremophila glutinosa		
+Eremophila glandulifera		
+Eremophila glabra		
+Eremophila gilesii		
+Eremophila gibsonii		
+Eremophila gibbosa		
+Eremophila gibbifolia		
+Eremophila georgei		
+Eremophila galeata		
+Eremophila freelingii		
+Eremophila fraseri		
+Eremophila forrestii		
+Eremophila foliosissima		
+Eremophila flaccida		
+Eremophila flabellata		
+Eremophila fasciata		
+Eremophila fallax		
+Eremophila falcata		
+Eremophila exilifolia		
+Eremophila eriocalyx		
+Eremophila enata		
+Eremophila elderi		
+Eremophila duttonii		
+Eremophila divaricata		
+Eremophila dichroantha		
+Eremophila deserti		
+Eremophila denticulata		
+Eremophila densifolia		
+Eremophila dendritica		
+Eremophila dempsteri		
+Eremophila demissa		
+Eremophila delisseri		
+Eremophila decussata		
+Eremophila decipiens		
+Eremophila debilis		
+Eremophila dalyana		
+Eremophila cuneifolia		
+Eremophila cryptothrix		
+Eremophila crenulata		
+Eremophila crassifolia		
+Eremophila conglomerata		
+Eremophila congesta		
+Eremophila conferta		
+Eremophila compressa		
+Eremophila complanata		
+Eremophila compacta		
+Eremophila clavata		
+Eremophila clarkei		
+Eremophila ciliata		
+Eremophila chamaephila		
+Eremophila caperata		
+Eremophila canaliculata		
+Eremophila campanulata		
+Eremophila calorhabdos		
+Eremophila calcicola		
+Eremophila caespitosa		
+Eremophila caerulea		
+Eremophila buirchellii		
+Eremophila brevifolia		
+Eremophila bowmanii		
+Eremophila biserrata		
+Eremophila bignoniiflora		
+Eremophila behriana		
+Eremophila battii		
+Eremophila ballythunnensis		
+Eremophila aureivisca		
+Eremophila arenaria		
+Eremophila arbuscula		
+Eremophila arachnoides		
+Eremophila appressa		
+Eremophila anomala		
+Eremophila annosocaulis		
+Eremophila alternifolia		
+Eremophila adenotricha		
+Eremophila acrida		
+Eremophila abietina		
+Eremogone saxatilis		
+Eremanthus veadeiroensis		
+Eremanthus syncephalus		
+Eremanthus reticulatus		
+Eremanthus polycephalus		
+Eremanthus mollis		
+Eremanthus incanus		
+Eremanthus goyazensis		
+Eremanthus crotonoides		
+Eremanthus capitatus		
+Eremanthus argenteus		
+Eragrostis curvula		
+Equisetum hyemale		
+Epipremnum aureum		
+Epiphyllum oxypetalum		
+Epimedium koreanum		
+Epimedium brevicornu		
+Ephedra viridis		
+Ephedra sinica		
+Ephedra equisetina		
+Ephedra distachya		
+Eperua falcata		
+Enterolobium contortisiliquum		
+Entandrophragma utile		
+Entandrophragma candollei		
+Entada gigas		
+Ensete ventricosum		
+Enkleia malaccensis		
+Enkianthus quinqueflorus		
+Endopleura uchi		
+Endlicheria szyszylowiczii		
+Encephalartos altensteinii		
+Emilia sonchifolia		
+Emblica officinalis		
+Embelia basaal		
+Elsholtzia fruticosa		
+Elsholtzia ciliata		
+Eleutherococcus sessiliflorus		
+Eleutherococcus senticosus		
+Eleutherine bulbosa		
+Eleusine coracana		
+Elettaria cardamomum		
+Elegia thyrsoidea		
+Elaeodendron schweinfurthianum		
+Elaeagnus umbellata		
+Elaeagnus angustifolia		
+Elaeagia mariae		
+Ehretia microcalyx		
+Ehretia cymosa		
+Edgeworthia gardneri		
+Edgeworthia chrysantha		
+Edgeworthia albiflora		
+Ectopopterys soejartoi		
+Eclipta prostrata		
+Echium vulgare		
+Echinops sphaerocephalus		
+Echinops latifolius		
+Echinochloa crus-galli		
+Echinacea purpurea		
+Echinacea pallida		
+Echinacea angustifolia		
+Echeveria pulvinata		
+Dystaenia takeshimana		
+Dysphania graveolens		
+Dysphania ambrosioides		
+Duranta erecta		
+Duguetia surinamensis		
+Duguetia stelechantha		
+Duguetia marcgraviana		
+Duguetia lanceolata		
+Duguetia flagellaris		
+Dryopteris filix-mas		
+Dryopteris crassirhizoma		
+Dryopteris celsa		
+Dryobalanops aromatica		
+Drosera burmannii		
+Drosera binata		
+Dracontium polyphyllum		
+Dracocephalum officinale		
+Dracaena draco		
+Dracaena cochinchinensis		
+Dracaena cambodiana		
+Dracaena arborea		
+Dracaena angustifolia		
+Dovyalis caffra		
+Donax grandis		
+Dombeya lucida		
+Dombeya greveana		
+Dolomiaea costus		
+Dolichandrone spathacea		
+Dolichandrone columnaris		
+Dodonaea viscosa		
+Disporum flavens		
+Dischidia nummularia		
+Dischidia major		
+Dipteryx oleifera		
+Dipteryx odorata		
+Dipteronia sinensis		
+Dipterocarpus turbinatus		
+Dipterocarpus tuberculatus		
+Dipterocarpus retusus		
+Dipsacus inermis		
+Dipsacus fullonum		
+Dipsacus atropurpureus		
+Dipsacus asperoides		
+Diplopterys pubipetala		
+Diplazium esculentum		
+Diospyros virginiana		
+Diospyros pilosanthera		
+Diospyros lotus		
+Diospyros kaki		
+Diospyros discolor		
+Diospyros crassiflora		
+Diospyros cathayensis		
+Dioscorea tokoro		
+Dioscorea polystachya		
+Dioscorea hispida		
+Dioscorea communis		
+Dioon edule		
+Diocirea violacea		
+Diocirea microphylla		
+Dimocarpus longan		
+Dillenia philippinensis		
+Dillenia pentagyna		
+Dillenia obovata		
+Dillenia indica		
+Dillenia hookeri		
+Digitaria exilis		
+Digitalis purpurea		
+Digitalis lutea		
+Dieffenbachia seguine		
+Didymopanax vinosus		
+Dictamnus dasycarpus		
+Dictamnus albus		
+Dicksonia antarctica		
+Dichrocephala integrifolia		
+Dichrocephala benthamii		
+Dichanthelium oligosanthes		
+Dicella macroptera		
+Dicella bracteosa		
+Dianthus sylvestris		
+Dianthus chinensis		
+Dianthus caryophyllus		
+Diacidia aracaensis		
+Desplatsia dewevrei		
+Desmopsis panamensis		
+Desmodium canadense		
+Desmanthus illinoensis		
+Derris elliptica		
+Dendrolobium lanceolatum		
+Dendrocnide moroides		
+Dendrobium officinale		
+Dendrobium moniliforme		
+Deguelia nitidula		
+Decaisnea fargesii		
+Davallia tyermanii		
+Daucus carota		
+Datura stramonium		
+Datura metel		
+Dasymaschalon rostratum		
+Dasiphora fruticosa		
+Daphniphyllum oldhamii		
+Daphne tangutica		
+Daphne retusa		
+Daphne pseudomezereum		
+Daphne pontica		
+Daphne papyracea		
+Daphne odora		
+Daphne kiusiana		
+Daphne jezoensis		
+Daphne holosericea		
+Daphne giraldii		
+Daphne genkwa		
+Daphne gemmata		
+Daphne feddei		
+Daphne depauperata		
+Daphne bholua		
+Daphne aurantiaca		
+Daphne acutiloba		
+Dalea mollis		
+Dalbergia stipulacea		
+Dalbergia odorifera		
+Dalbergia nigrescens		
+Dalbergia ecastaphyllum		
+Dalbergia dongnaiensis		
+Dahlia pinnata		
+Dactylis glomerata		
+Dacrydium elatum		
+Cytisus scoparius		
+Cytisus nigricans		
+Cystopteris protrusa		
+Cyrtomium falcatum		
+Cypripedium reginae		
+Cyperus rotundus		
+Cyperus papyrus		
+Cyperus esculentus		
+Cyperus diffusus		
+Cyperus alternifolius		
+Cynomorium songaricum		
+Cynoglossum officinale		
+Cynoglossum lanceolatum		
+Cynoglossum amabile		
+Cynodon transvaalensis		
+Cynara cardunculus		
+Cynanchum wilfordii		
+Cynanchum mahafalense		
+Cymbopogon citratus		
+Cydonia oblonga		
+Cycloloma atriplicifolium		
+Cyclocarya paliurus		
+Cycas siamensis		
+Cycas circinalis		
+Cyathula prostrata		
+Cuscuta chinensis		
+Curcuma zedoaria		
+Curcuma phaeocaulis		
+Curcuma longa		
+Curcuma alismatifolia		
+Curculigo orchioides		
+Cupressus sempervirens		
+Cupressus duclouxiana		
+Cuphea ignea		
+Cuphea carthagenensis		
+Cupania seemannii		
+Cunonia capensis		
+Cullen corylifolium		
+Cucurbita pepo		
+Cucurbita moschata		
+Cucurbita melopepo		
+Cucurbita maxima		
+Cucurbita argyrosperma		
+Cucumis sativus		
+Cucumis melo		
+Ctenodon viscidulus		
+Ctenidium molluscum		
+Cryptostegia madagascariensis		
+Cryptomeria japonica		
+Croton thorelii		
+Croton rusbyi		
+Croton meridionalis		
+Croton mavoravina		
+Croton matourensis		
+Croton cajucara		
+Crotalaria sagittalis		
+Crotalaria retusa		
+Crotalaria pallida		
+Crotalaria laevigata		
+Crotalaria grevei		
+Crotalaria fiherenensis		
+Crocus sativus		
+Crinum firmifolium		
+Crescentia cujete		
+Crepis biennis		
+Cremastra appendiculata		
+Craterispermum laurinum		
+Crataegus sanguinea		
+Crataegus pinnatifida		
+Crataegus monogyna		
+Crataegus laevigata		
+Crassula rupestris		
+Crassula argentea		
+Crambe kilimandscharica		
+Crambe hispanica		
+Coutarea hexandra		
+Coussarea curvigemmia		
+Cotoneaster mongolicus		
+Cotinus coggygria		
+Cota tinctoria		
+Costus spicatus		
+Costus scaber		
+Costus malortieanus		
+Costus laevis		
+Costus dubius		
+Costus arabicus		
+Costus afer		
+Cosmos bipinnatus		
+Coscinium fenestratum		
+Corynanthe pachyceras		
+Corymbia citriodora		
+Corylus ferox		
+Corylus cornuta		
+Corylus avellana		
+Corylus americana		
+Corylopsis multiflora		
+Corydalis yanhusuo		
+Corydalis turtschaninovii		
+Corydalis ternata		
+Corokia cotoneaster		
+Cornus sanguinea		
+Cornus officinalis		
+Cornus nuttallii		
+Cornus mas		
+Cornus florida		
+Cornus drummondii		
+Cornus amomum		
+Cornus alternifolia		
+Cormus domestica		
+Corispermum americanum		
+Coriandrum sativum		
+Coreopsis tinctoria		
+Coreopsis lanceolata		
+Cordyline fruticosa		
+Cordia ucayaliensis		
+Cordia lasiocalyx		
+Cordia ecalyculata		
+Cordia alliodora		
+Corchorus olitorius		
+Corchorus capsularis		
+Coptis omeiensis		
+Coptis japonica		
+Copaifera salikounda		
+Copaifera langsdorffii		
+Convallaria majalis		
+Connarus semidecandrus		
+Connarus perrottetii		
+Connarus cochinchinensis		
+Conium maculatum		
+Conioselinum tenuissimum		
+Conioselinum officinale		
+Condea verticillata		
+Condaminea corymbosa		
+Conceveiba guianensis		
+Commiphora simplicifolia		
+Commiphora myrrha		
+Commiphora monstruosa		
+Commiphora lamii		
+Commiphora brevicalyx		
+Commiphora aprevalii		
+Commelina diffusa		
+Combretum quadrangulare		
+Combretum indicum		
+Combretum grandidieri		
+Combretum coccineum		
+Colubrina spinosa		
+Colubrina asiatica		
+Colubrina arborescens		
+Colona auriculata		
+Colocasia esculenta		
+Coleus amboinicus		
+Cola nitida		
+Coix lacryma-jobi		
+Coffea canephora		
+Coffea arabica		
+Codonopsis pilosula		
+Codonopsis lanceolata		
+Codariocalyx gyroides		
+Cocos nucifera		
+Cochliostema odoratissimum		
+Cocculus trilobus		
+Coccoloba mollis		
+Coccinia grandis		
+Cobaea scandens		
+Clusia trochiformis		
+Clusia rosea		
+Clusia multiflora		
+Clusia ducu		
+Clivia miniata		
+Clitoria ternatea		
+Clinopodium vulgare		
+Clinopodium megalanthum		
+Cliftonia monophylla		
+Clibadium sylvestre		
+Clethra revoluta		
+Clethra peruviana		
+Clethra ferruginea		
+Clethra cuneata		
+Clethra cardenasii		
+Clerodendrum yunnanense		
+Clerodendrum paniculatum		
+Clerodendrum indicum		
+Clerodendrum chinense		
+Clematis vitalba		
+Clematis meyeniana		
+Clematis chrysocoma		
+Clematis chinensis		
+Clematis brevicaudata		
+Clematis apiifolia		
+Clematis alpina		
+Cleistocactus winteri		
+Cleistanthus tomentosus		
+Clausena wallichii		
+Clarkia amoena		
+Clarisia racemosa		
+Clarisia biflora		
+Cladrastis kentukea		
+Citrus x limon		
+Citrus x aurantium		
+Citrus x aurantiifolia		
+Citrus unshiu		
+Citrus trifoliata		
+Citrus sinensis		
+Citrus reticulata		
+Citrus limonia		
+Citrus japonica		
+Citrus hystrix		
+Citrus cavaleriei		
+Citrus bergamia		
+Citrullus lanatus		
+Citrullus colocynthis		
+Cistus laurifolius		
+Cistus creticus		
+Cistanthe grandiflora		
+Cistanche deserticola		
+Cissus verticillata		
+Cissus rotundifolia		
+Cissus repanda		
+Cirsium rivulare		
+Cirsium pitcheri		
+Cirsium japonicum		
+Cirsium arvense		
+Cinnamomum verum		
+Cinnamomum camphora		
+Cinnamomum burmanni		
+Cinnamomum aromaticum		
+Cinchona pubescens		
+Cinchona calisaya		
+Cichorium intybus		
+Cichorium endivia		
+Cicerbita muralis		
+Cicer arietinum		
+Cibotium barometz		
+Chuquiraga spinosa		
+Chrysopogon zizanioides		
+Chrysophyllum gonocarpum		
+Chrysanthemum zawadzkii		
+Chrysanthemum x morifolium		
+Chrysanthemum indicum		
+Chronopappus bifrons		
+Chromolaena odorata		
+Christianella multiglandulosa		
+Chresta sphaerocephala		
+Chresta pycnocephala		
+Chresta plantaginifolia		
+Chresta exsucca		
+Chlorophytum minor		
+Chlorogalum pomeridianum		
+Chloranthus holostegius		
+Chionanthus virginicus		
+Chenopodium quinoa		
+Chelonanthus alatus		
+Chelidonium majus		
+Cheiloclinium cognatum		
+Cheilanthes argentea		
+Chamaenerion angustifolium		
+Chamaemelum nobile		
+Chamaedorea metallica		
+Chamaecrista diphylla		
+Chadsia grevei		
+Cereus peruvianus		
+Cercocarpus ledifolius		
+Cercis canadensis		
+Cercidiphyllum japonicum		
+Cerbera venenifera		
+Cerbera manghas		
+Ceratozamia mexicana		
+Ceratophyllum demersum		
+Ceratonia siliqua		
+Cerastium alpinum		
+Cephalotaxus harringtonia		
+Cephalostachyum virgatum		
+Cephalanthus occidentalis		
+Centella asiatica		
+Centaurea stoebe		
+Centaurea montana		
+Centaurea jacea		
+Centaurea cyanus		
+Centaurea benedicta		
+Cenchrus unisetus		
+Cenchrus americanus		
+Celtis tenuifolia		
+Celtis schippii		
+Celtis occidentalis		
+Celtis australis		
+Celosia argentea		
+Celastrus paniculatus		
+Celastrus orbiculatus		
+Ceiba speciosa		
+Ceiba samauma		
+Ceiba pentandra		
+Ceiba boliviana		
+Cedrelopsis grevei		
+Cedrela fissilis		
+Cecropia tacuna		
+Cecropia palmata		
+Cecropia pachystachya		
+Cecropia obtusa		
+Cecropia insignis		
+Cecropia angustifolia		
+Ceanothus americanus		
+Cavendishia bracteata		
+Cavanillesia platanifolia		
+Causonis trifolia		
+Caucalis platycarpos		
+Catharanthus scitulus		
+Catharanthus roseus		
+Catharanthus ovalis		
+Catharanthus lanceus		
+Catha edulis		
+Casuarina equisetifolia		
+Castanopsis purpurella		
+Castanopsis piriformis		
+Castanopsis indica		
+Castanea mollissima		
+Castanea dentata		
+Castanea crenata		
+Cassipourea elliptica		
+Cassia javanica		
+Cassia grandis		
+Casimiroa edulis		
+Casearia pitumba		
+Casearia grewiifolia		
+Casearia gossypiosperma		
+Casearia bicolor		
+Casearia arborea		
+Caryota urens		
+Carya tomentosa		
+Carya texana		
+Carya ovata		
+Carya illinoinensis		
+Carya glabra		
+Carya cordiformis		
+Carya alba		
+Carum carvi		
+Carthamus tinctorius		
+Carpinus betulus		
+Carpesium abrotanoides		
+Carolus chasei		
+Carludovica palmata		
+Carissa bispinosa		
+Cariniana ianeirensis		
+Carica papaya		
+Careya arborea		
+Carex tenera		
+Carex scirpoidea		
+Carex baccans		
+Carduus defloratus		
+Cardamine pratensis		
+Carapichea ipecacuanha		
+Carapa guianensis		
+Carallia brachiata		
+Caragana rosea		
+Capsicum frutescens		
+Capsicum chinense		
+Capsicum baccatum		
+Capsicum annuum		
+Capparis spinosa		
+Capparidastrum frondosum		
+Capitanopsis cloiselii		
+Capitanopsis angustifolia		
+Cannabis sativa		
+Canna tuerckheimii		
+Canna indica		
+Canistrum seidelianum		
+Canella winterana		
+Canavalia gladiata		
+Canarium schweinfurthii		
+Canarium album		
+Cananga brandisiana		
+Campyloneurum phyllitidis		
+Campsis grandiflora		
+Campanula rotundifolia		
+Campanula patula		
+Camellia sinensis		
+Camellia japonica		
+Camelina sativa		
+Camarea affinis		
+Calyptranthes concinna		
+Calycophyllum spruceanum		
+Calycanthus floridus		
+Calycanthus chinensis x Calycanthus floridus		
+Calophyllum longifolium		
+Calophyllum inophyllum		
+Calophyllum brasiliense		
+Caloncoba welwitschii		
+Calluna vulgaris		
+Callistephus chinensis		
+Calliergonella cuspidata		
+Callicarpa bodinieri		
+Callicarpa americana		
+Calliandra haematocephala		
+Callaeum psilophyllum		
+Callaeum antifebrile		
+Calendula officinalis		
+Calceolaria crenatiflora		
+Calathea similis		
+Calathea lutea		
+Calathea lasiostachya		
+Calathea crotalifera		
+Calamus salicifolius		
+Calamus deerratus		
+Calamphoreus inflatus		
+Calamagrostis canadensis		
+Cajanus cajan		
+Caesalpinia pulcherrima		
+Cadaba virgata		
+Cabralea canjerana		
+Byttneria aspera		
+Byrsonima verbascifolia		
+Byrsonima spicata		
+Byrsonima sericea		
+Byrsonima ligustrifolia		
+Byrsonima intermedia		
+Byrsonima crassifolia		
+Byrsonima coccolobifolia		
+Buxus sempervirens		
+Butea superba		
+Butea monosperma		
+Bursera fagaroides		
+Bupleurum rotundifolium		
+Bupleurum falcatum		
+Buphthalmum salicifolium		
+Bunchosia pallescens		
+Bunchosia montana		
+Bunchosia glandulifera		
+Buglossoides arvensis		
+Buddleja officinalis		
+Buddleja madagascariensis		
+Buchanania reticulata		
+Buchanania latifolia		
+Bryonia cretica		
+Brunfelsia grandiflora		
+Brunellia boliviana		
+Bruguiera cylindrica		
+Brugmansia suaveolens		
+Brucea javanica		
+Brownea coccinea		
+Browallia americana		
+Broussonetia papyrifera		
+Brosimum lactescens		
+Brosimum guianense		
+Brosimum alicastrum		
+Brosimum acutifolium		
+Bronwenia megaptera		
+Breynia vitis-idaea		
+Breynia fruticosa		
+Brassica rapa		
+Brassica oleracea		
+Brassica nigra		
+Brassica napus		
+Brassica juncea		
+Brassica cretica		
+Brassica carinata		
+Brahea edulis		
+Brachythecium rutabulum		
+Brachypterum scandens		
+Brachypodium distachyon		
+Bowiea volubilis		
+Bouteloua gracilis		
+Bougainvillea spectabilis		
+Bougainvillea modesta		
+Boswellia sacra		
+Boscia longifolia		
+Borassus flabellifer		
+Borago officinalis		
+Bontia daphnoides		
+Bombax ceiba		
+Bombax anceps		
+Boerhavia diffusa		
+Boehmeria nivea		
+Blitum nuttallianum		
+Blighia sapida		
+Bletilla striata		
+Blepharandra hypoleuca		
+Blepharandra heteropetala		
+Blanchetia heterotricha		
+Blakea multiflora		
+Bixa orellana		
+Bistorta officinalis		
+Bistorta manshuriensis		
+Bismarckia nobilis		
+Bischofia polycarpa		
+Bischofia javanica		
+Bignonia uleana		
+Bidens tripartita		
+Bidens pilosa		
+Biancaea sappan		
+Biancaea decapetala		
+Betula pubescens		
+Betula populifolia		
+Betula platyphylla		
+Betula pendula		
+Betula papyrifera		
+Betula neoalaskana		
+Betula glandulosa		
+Betula alleghaniensis		
+Betonica officinalis		
+Beta vulgaris		
+Bertholletia excelsa		
+Berchemiella berchemiifolia		
+Berchemia yunnanensis		
+Berchemia sinica		
+Berchemia lineata		
+Berchemia kulingensis		
+Berchemia huana		
+Berchemia hirtella		
+Berchemia floribunda		
+Berberis thunbergii		
+Berberis sibirica		
+Berberis julianae		
+Berberis aquifolium		
+Benincasa hispida		
+Bellis perennis		
+Bejaria aestuans		
+Beilschmiedia tovarensis		
+Beilschmiedia pendula		
+Begonia palmata		
+Beaucarnea recurvata		
+Bauhinia viridescens		
+Bauhinia variegata		
+Bauhinia tomentosa		
+Bauhinia purpurea		
+Bauhinia galpinii		
+Bauhinia forficata		
+Bauhinia bracteata		
+Bathysa australis		
+Bassia scoparia		
+Basella alba		
+Baptisia tinctoria		
+Banisteriopsis vernoniifolia		
+Banisteriopsis variabilis		
+Banisteriopsis stellaris		
+Banisteriopsis parviglandula		
+Banisteriopsis padifolia		
+Banisteriopsis muricata		
+Banisteriopsis megaphylla		
+Banisteriopsis malifolia		
+Banisteriopsis laevifolia		
+Banisteriopsis harleyi		
+Banisteriopsis campestris		
+Banisteriopsis caapi		
+Banisteriopsis argyrophylla		
+Banisteriopsis anisandra		
+Banisteriopsis adenopoda		
+Banara tomentosa		
+Bambusa vulgaris		
+Ballota nigra		
+Baliospermum solanifolium		
+Baliospermum montanum		
+Bagassa guianensis		
+Bactris gasipaes		
+Baccaurea ramiflora		
+Azadirachta indica		
+Avicennia officinalis		
+Averrhoa carambola		
+Avenula pubescens		
+Avena sativa		
+Avena nuda		
+Avena barbata		
+Autranella congolensis		
+Aurinia saxatilis		
+Aucuba japonica		
+Aucuba himalaica		
+Aubrevillea kerstingii		
+Atropa belladonna		
+Atriplex hortensis		
+Atriplex canescens		
+Atractylodes macrocephala		
+Atractylodes lancea		
+Atractylodes japonica		
+Atalantia citroides		
+Astragalus sinicus		
+Astragalus propinquus		
+Astragalus membranaceus		
+Astragalus glycyphyllos		
+Astragalus canadensis		
+Aster yomena		
+Aster tataricus		
+Aster incisus		
+Aster hispidus		
+Aster glehnii		
+Aster altaicus		
+Aster alpinus		
+Aster ageratoides		
+Astelia banksii		
+Asplenium trichomanes		
+Asplenium scolopendrium		
+Asplenium ruta-muraria		
+Asplenium platyneuron		
+Asplenium onopteris		
+Asplenium musifolium		
+Asplenium ceterach		
+Aspidosperma spruceanum		
+Aspidosperma cylindrocarpon		
+Aspicarpa harleyi		
+Asparagus officinalis		
+Asparagus cochinchinensis		
+Asimina triloba		
+Asclepias incarnata		
+Asclepias curassavica		
+Asarum heterotropoides		
+Aruncus dioicus		
+Artocarpus nitidus		
+Artocarpus heterophyllus		
+Artocarpus altilis		
+Artemisia vulgaris		
+Artemisia scoparia		
+Artemisia princeps		
+Artemisia ludoviciana		
+Artemisia iwayomogi		
+Artemisia heptapotamica		
+Artemisia gmelinii		
+Artemisia frigida		
+Artemisia dracunculus		
+Artemisia cina		
+Artemisia capillaris		
+Artemisia argyi		
+Artemisia arborescens		
+Artemisia annua		
+Artemisia absinthium		
+Artabotrys hexapetalus		
+Arrhenatherum elatius		
+Aronia melanocarpa		
+Arnoglossum plantagineum		
+Arnica montana		
+Armoracia rusticana		
+Aristolochia tagala		
+Aristolochia fimbriata		
+Aristolochia debilis		
+Aristolochia clematitis		
+Aristolochia californica		
+Aristolochia acuminata		
+Arisaema triphyllum		
+Arisaema heterophyllum		
+Arisaema franchetianum		
+Arisaema amurense		
+Argentina anserina		
+Argemone mexicana		
+Arenga caudata		
+Areca catechu		
+Ardisia crenata		
+Arctostaphylos uva-ursi		
+Arctium lappa		
+Arbutus unedo		
+Aralia spinosa		
+Aralia soratensis		
+Aralia nudicaulis		
+Aralia continentalis		
+Arachis stenosperma		
+Arachis ipaensis		
+Arachis hypogaea		
+Arabis hirsuta		
+Arabis alpina		
+Arabidopsis thaliana		
+Arabidopsis lyrata		
+Aquilegia vulgaris		
+Aquilegia coerulea		
+Aquilaria agallochum		
+Aquarius macrophyllus		
+Apuleia leiocarpa		
+Aporosa villosa		
+Aporosa planchoniana		
+Apluda mutica		
+Apium graveolens		
+Apios americana		
+Aphanamixis polystachya		
+Apeiba membranacea		
+Aparisthmium cordatum		
+Antigonon leptopus		
+Antidesma ghaesembilla		
+Anthyllis vulneraria		
+Anthurium andraeanum		
+Anthriscus sylvestris		
+Anthriscus cerefolium		
+Anthoxanthum odoratum		
+Anthoshorea roxburghii		
+Anteremanthus hatschbachii		
+Anonidium mannii		
+Annona muricata		
+Annona emarginata		
+Annona coriacea		
+Annona cherimola		
+Annona bicolor		
+Annona amazonica		
+Anisoptera costata		
+Anigozanthos viridis		
+Aniba guianensis		
+Aniba canelilla		
+Angelica keiskei		
+Angelica gigas		
+Angelica dahurica		
+Angelica archangelica		
+Angelica anomala		
+Anethum graveolens		
+Anethum foeniculum		
+Anemone tomentosa		
+Anemone rivularis		
+Anemone narcissiflora		
+Anemarrhena asphodeloides		
+Andrographis paniculata		
+Anchusa officinalis		
+Anchusa capensis		
+Anaxagorea panamensis		
+Ananas comosus		
+Anagyris foetida		
+Anadenanthera colubrina		
+Anacardium occidentale		
+Anacardium excelsum		
+Amphipterygium adstringens		
+Amphicarpaea bracteata		
+Ampelozizyphus amazonicus		
+Ampelopsis japonica		
+Ampelocissus arachnoidea		
+Ampelocera ruizii		
+Amorphophallus paeoniifolius		
+Amorphophallus konjac		
+Amorphophallus bulbifer		
+Amorpha fruticosa		
+Amorimia septentrionalis		
+Amorimia pubiflora		
+Amorimia coriacea		
+Amorimia concinna		
+Amorimia andersonii		
+Amomum krervanh		
+Amelanchier canadensis		
+Amelanchier arborea		
+Amelanchier alnifolia		
+Amburana cearensis		
+Ambrosia artemisiifolia		
+Amaranthus viridis		
+Amaranthus tuberculatus		
+Amaranthus tricolor		
+Amaranthus retroflexus		
+Amaranthus hypochondriacus		
+Amaranthus hybridus		
+Amaranthus cruentus		
+Amaranthus blitum		
+Amaranthus albus		
+Amaranthus acanthochiton		
+Amalocalyx yunnanensis		
+Althaea officinalis		
+Althaea armeniaca		
+Alternanthera flavescens		
+Alternanthera bettzickiana		
+Alstroemeria angustifolia		
+Alseis blackiana		
+Alpinia purpurata		
+Alpinia oxyphylla		
+Alpinia officinarum		
+Alpinia hainanensis		
+Alpinia galanga		
+Alpinia chinensis		
+Alphitonia philippinensis		
+Alopecurus pratensis		
+Aloiampelos ciliaris		
+Aloe vera		
+Aloe ferox		
+Aloe camperi		
+Aloe arborescens		
+Alocasia macrorrhizos		
+Alnus japonica		
+Alnus hirsuta		
+Alnus glutinosa		
+Alnus firma		
+Alnus alnobetula		
+Alluaudia procera		
+Allospondias lakonensis		
+Allophylus cobbe		
+Allium ursinum		
+Allium tuberosum		
+Allium schoenoprasum		
+Allium sativum		
+Allium ledebourianum		
+Allium cepa		
+Allium ampeloprasum		
+Allionia incarnata		
+Alliaria petiolata		
+Alisma plantago-aquatica		
+Alchornea triplinervia		
+Alchornea laxiflora		
+Alchornea latifolia		
+Alchornea grandiflora		
+Alchornea glandulosa		
+Alchemilla mollis		
+Alchemilla conjuncta		
+Alchemilla alpina		
+Alcea rosea		
+Albuca bracteata		
+Albizia myriophylla		
+Albizia julibrissin		
+Albizia adianthifolia		
+Akebia quinata		
+Ajuga forrestii		
+Aiouea montana		
+Ainsliaea yunnanensis		
+Ainsliaea pertyoides		
+Ailanthus triphysus		
+Ailanthus altissimus		
+Agrostis gigantea		
+Agrostemma githago		
+Agrimonia pilosa		
+Agrimonia eupatoria		
+Agouticarpa curviflora		
+Aglaonema commutatum		
+Aglaomorpha fortunei		
+Aglaomorpha bonii		
+Aglaia simplicifolia		
+Ageratum fastigiatum		
+Ageratum conyzoides		
+Agave tequilana		
+Agave sisalana		
+Agave bracteosa		
+Agastache rugosa		
+Agastache mexicana		
+Agapanthus praecox		
+Afzelia xylocarpa		
+Afzelia bipindensis		
+Afrostyrax lepidophyllus		
+Aframomum melegueta		
+Aesculus hippocastanum		
+Aenigmatanthera lasiandra		
+Aegopodium podagraria		
+Aegle marmelos		
+Aegilops speltoides		
+Aechmea nudicaulis		
+Adromischus cristatus		
+Adonis vernalis		
+Adenophora triphylla		
+Adenophora stricta		
+Adenophora remotiflora		
+Adenium obesum		
+Adenia olaboensis		
+Adenia monadelpha		
+Adenia lobata		
+Adenanthera microsperma		
+Adansonia za		
+Adansonia rubrostipa		
+Adansonia grandidieri		
+Adansonia digitata		
+Actinidia rubricaulis		
+Actinidia deliciosa		
+Actinidia chinensis		
+Actaea spicata		
+Actaea racemosa		
+Actaea heracleifolia		
+Acridocarpus smeathmannii		
+Acorus gramineus		
+Acorus calamus		
+Aconitum napellus		
+Aconitum kusnezoffii		
+Aconitum ciliare		
+Aconitum carmichaelii		
+Aconitum barbatum		
+Acmispon argophyllus		
+Acmella oleracea		
+Acmanthera latifolia		
+Achyrocline saturejoides		
+Achyranthes bidentata		
+Achillea ptarmica		
+Achillea millefolium		
+Achillea fragrantissima		
+Achillea biebersteinii		
+Achillea asiatica		
+Achillea ageratum		
+Achatocarpus praecox		
+Acer wilsonii		
+Acer saccharum		
+Acer rubrum		
+Acer platanoides		
+Acer pictum		
+Acer negundo		
+Acer monspessulanum		
+Acer fabri		
+Acer circinatum		
+Acer campestre		
+Acanthus spinosus		
+Acanthus mollis		
+Acanthus longifolius		
+Acanthus ilicifolius		
+Acanthospermum hispidum		
+Acalypha siamensis		
+Acalypha diversifolia		
+Acalypha decaryana		
+Acacia paradoxa		
+Acacia megaladena		
+Acacia crassicarpa		
+Abutilon grandifolium		
+Abuta grandifolia		
+Abrus precatorius		
+Abroma augustum		
+Abies lasiocarpa		
+Abies grandis		
+Abies amabilis		
+Abies alba		
+Abelmoschus manihot		
+Abelmoschus esculentus		
