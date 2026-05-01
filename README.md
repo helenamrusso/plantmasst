@@ -1,4 +1,4 @@
-# plantmasst
+# plantMASST
 
 This repository contains analysis materials, source data, and exported figure assets for the plantMASST manuscript. It is organized around the main tables used in the study, the notebooks that generate figure panels, the MZmine inputs used for metabolomics processing, and the supplementary HTML outputs produced from the analyses used as use cases.
 
