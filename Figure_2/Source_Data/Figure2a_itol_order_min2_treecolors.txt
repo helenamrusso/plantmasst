@@ -1,0 +1,53 @@
+TREE_COLORS
+#tree_taxonomy=family
+#tree_highlight=order
+SEPARATOR TAB
+DATA
+tax_16360	range	#1f77b4	Alismatales
+tax_4036	range	#ff7f0e	Apiales
+tax_91883	range	#2ca02c	Aquifoliales
+tax_40551	range	#d62728	Arecales
+tax_73496	range	#9467bd	Asparagales
+tax_4209	range	#8c564b	Asterales
+tax_82956	range	#e377c2	Austrobaileyales
+tax_3699	range	#7f7f7f	Brassicales
+tax_3524	range	#bcbd22	Caryophyllales
+tax_4739	range	#17becf	Commelinales
+tax_41934	range	#e41a1c	Cornales
+tax_71239	range	#377eb8	Cucurbitales
+tax_1446379	range	#4daf4a	Cupressales
+tax_3297	range	#984ea3	Cycadales
+tax_4199	range	#ff7f00	Dipsacales
+tax_41945	range	#ffff33	Ericales
+tax_72025	range	#a65628	Fabales
+tax_3502	range	#f781bf	Fagales
+tax_4055	range	#999999	Gentianales
+tax_3308	range	#1b9e77	Ginkgoales
+tax_3378	range	#d95f02	Gnetales
+tax_693760	range	#7570b3	Hymenophyllales
+tax_3199	range	#e7298a	Jungermanniales
+tax_4143	range	#66a61e	Lamiales
+tax_3432	range	#e6ab02	Laurales
+tax_4667	range	#a6761d	Liliales
+tax_3400	range	#666666	Magnoliales
+tax_3646	range	#66c2a5	Malpighiales
+tax_41938	range	#fc8d62	Malvales
+tax_28908	range	#8da0cb	Marchantiales
+tax_41944	range	#e78ac3	Myrtales
+tax_261007	range	#a6d854	Nymphaeales
+tax_71243	range	#ffd92f	Oxalidales
+tax_40550	range	#e5c494	Pandanales
+tax_1446380	range	#b3b3b3	Pinales
+tax_16736	range	#a6cee3	Piperales
+tax_38820	range	#1f78b4	Poales
+tax_3268	range	#b2df8a	Polypodiales
+tax_232378	range	#33a02c	Proteales
+tax_41768	range	#fb9a99	Ranunculales
+tax_3744	range	#e31a1c	Rosales
+tax_41937	range	#fdbf6f	Sapindales
+tax_41946	range	#cab2d6	Saxifragales
+tax_3244	range	#6a3d9a	Selaginellales
+tax_4069	range	#ffff99	Solanales
+tax_400839	range	#b15928	Trochodendrales
+tax_403667	range	#aec7e8	Vitales
+tax_4618	range	#ffbb78	Zingiberales
